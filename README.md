@@ -2422,8 +2422,6 @@ O projeto se conecta à proposta “O que eu percebi” ao transformar temas de 
 
 O portal apresenta oito competências: pensamento crítico, pesquisa inteligente, escrita criativa, organização, automação, criatividade, colaboração e resolução de problemas.
 
-**#EmbaixadoresEstudantisGoogle**
-
 <br>
 
 [⬆️ Voltar ao sumário](#sumario)
