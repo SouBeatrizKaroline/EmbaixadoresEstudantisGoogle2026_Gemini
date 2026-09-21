@@ -145,6 +145,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [💜 Abertura — O que eu gostaria de ter ouvido antes do ENEM](#semana4-enem)
 - [🧩 Desafio #01 — Minha Rotina em Ordem](#semana4-rotina-em-ordem)
 - [📚 Desafio #02 — Mural de Organização da Vida Acadêmica](#semana4-mural-organizacao)
+- [📣 Ação de Impacto — O que eu levo desta semana · Lumi Academy](#semana4-impacto-lumi)
 
 </details>
 
@@ -186,6 +187,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 14/09/2026 | 🗓️ Semana 4 | O que eu gostaria de ter ouvido antes do ENEM | ✅ |
 | 15–17/09/2026 | 🗓️ Semana 4 | Minha Rotina em Ordem | ✅ |
 | 16/09/2026 | 🗓️ Semana 4 | Mural de Organização da Vida Acadêmica | 📝 |
+| 18/09/2026 | 🗓️ Semana 4 | O que eu levo desta semana · Lumi Academy | 🛠️ Projeto criado |
 
 ---
 
@@ -2298,7 +2300,7 @@ O que começou como texto e reflexão passou por representação visual, Canvas 
 
 **Organizar → Acolher → Aprender → Compartilhar**
 
-**🔄 Semana em andamento · Atualização de 17/09/2026**
+**Registro atualizado em 21/09/2026**
 
 </div>
 
@@ -2395,6 +2397,41 @@ A estratégia virou a base da minha organização: compromissos com horário fic
 
 ---
 
+<a id="semana4-impacto-lumi"></a>
+
+<details open>
+<summary><strong>📣 Ação de Impacto — O que eu levo desta semana · Lumi Academy</strong></summary>
+
+### 📅 18/09/2026 · 🛠️ Projeto criado
+
+### 🎯 O que foi proposto
+
+Criar um conteúdo simples e autoral sobre uma dica aprendida na Masterclass com Pompeu IA ou uma percepção sobre estudar, se organizar e lidar com a rotina a partir das experiências da semana. O formato era livre, com a hashtag #EmbaixadoresEstudantisGoogle.
+
+### 🚀 O que eu fiz
+
+Criei o Lumi Academy e o trouxe como minha criação para esta Ação de Impacto: um portal interativo de aprendizagem por exploração, com planetas temáticos, missões práticas e diário reflexivo.
+
+### 👀 Conexão com a semana
+
+O projeto se conecta à proposta “O que eu percebi” ao transformar temas de estudo e organização em experiências práticas. A trilha de Organização reúne desafios como esvaziamento mental, priorização, planejamento em blocos de tempo, revisão semanal e Kanban de estudos.
+
+### 🌐 Minha criação
+
+**[✨ Explorar o Lumi Academy](https://lumi.goskip.app/)**
+
+O portal apresenta oito competências: pensamento crítico, pesquisa inteligente, escrita criativa, organização, automação, criatividade, colaboração e resolução de problemas.
+
+**#EmbaixadoresEstudantisGoogle**
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -2410,8 +2447,27 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
+| 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
 
 </div>
+
+<a id="ancestria"></a>
+
+### 🗺️ Ancestria — Histórias, povos e memórias
+
+Jogo de exploração histórica e educativa em 3D, com um percurso inicial por México-Tenochtitlan e conteúdos sobre tecnologias, memórias e culturas das Américas.
+
+Utilizei o **Gemini Spark na base inicial do desenvolvimento e do código** do projeto.
+
+**[🎮 Explorar o Ancestria](https://ancestriagame.vercel.app/)**
+
+<a id="lumi-academy"></a>
+
+### ✨ Lumi Academy — Criação da jornada
+
+Portal de aprendizagem por exploração, registrado na [Ação de Impacto da Semana 4](#semana4-impacto-lumi), com missões de estudo, organização e pensamento crítico.
+
+**[🌌 Explorar o Lumi Academy](https://lumi.goskip.app/)**
 
 <a id="conecta"></a>
 
@@ -2557,6 +2613,8 @@ Minha pergunta também mudou.
 - [x] 🧩 Minha Rotina em Ordem criada e testada
 - [x] 📚 Dica para o Mural de Organização criada
 - [x] 🔗 Conecta desenvolvido como App, API e Analytics integrados
+- [x] ✨ Lumi Academy criado para a Ação de Impacto da Semana 4
+- [x] 🗺️ Base inicial do Ancestria desenvolvida com Gemini Spark
 
 ---
 
