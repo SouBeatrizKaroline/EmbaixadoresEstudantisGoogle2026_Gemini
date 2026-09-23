@@ -150,6 +150,13 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 </details>
 
 <details>
+<summary><strong>🎮 Semana 5 — Um desafio, três caminhos</strong></summary>
+
+- [🎮 Desafio #01 — Um desafio, três caminhos](#semana5-tres-caminhos)
+
+</details>
+
+<details>
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
@@ -188,6 +195,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 15–17/09/2026 | 🗓️ Semana 4 | Minha Rotina em Ordem | ✅ |
 | 16/09/2026 | 🗓️ Semana 4 | Mural de Organização da Vida Acadêmica | 📝 |
 | 18/09/2026 | 🗓️ Semana 4 | O que eu levo desta semana · Lumi Academy | 🛠️ Projeto criado |
+| 23/09/2026 | 🎮 Semana 5 | Um desafio, três caminhos · TURNO | 🛠️ Em construção |
 
 ---
 
@@ -2430,6 +2438,89 @@ O portal apresenta oito competências: pensamento crítico, pesquisa inteligente
 
 ---
 
+<a id="semana5"></a>
+
+# 🎮 SEMANA 5 — Um desafio, três caminhos
+
+### 📅 Setembro de 2026
+
+<div align="center">
+
+**Explorar → Comparar → Combinar → Construir**
+
+</div>
+
+Nesta semana, o ponto de partida foi explorar três caminhos realmente diferentes para um mesmo problema antes de decidir o que construir.
+
+---
+
+<a id="semana5-tres-caminhos"></a>
+
+<details open>
+<summary><strong>🎮 Desafio #01 — Um desafio, três caminhos</strong></summary>
+
+### 📅 23/09/2026 · 🛠️ Solução em construção
+
+### 🎯 Situação real
+
+Como criar uma experiência que ajude estudantes a organizar **tempo, estudos, finanças e descanso**, sem ser apenas mais um planner ou uma ferramenta de produtividade baseada em cobranças?
+
+### 🎯 Objetivo
+
+Explorar uma forma mais interativa de lidar com essas áreas da vida estudantil e, a partir dos testes, começar a construir uma solução.
+
+### 🛠️ Rota escolhida
+
+**ROTA 4 | Quero resolver ou construir algo.**
+
+### 🔎 Os três caminhos explorados com Gemini
+
+#### 🔮 1. Sandbox Preditivo | “O Laboratório do Tempo”
+
+Explorei a simulação de decisões ao longo de uma semana. Esse caminho ajudou a observar gargalos, antecipar situações e considerar como uma experiência poderia preparar melhor o estudante para imprevistos.
+
+#### 🃏 2. Deckbuilder Tático | “Economia de Ações por Cartas”
+
+Explorei o dia como um recurso limitado. A proposta tornou mais visíveis o custo de oportunidade, as escolhas, os limites e as consequências de dedicar tempo a uma atividade. Também revelou o risco de transformar a rotina em microgerenciamento.
+
+#### 🌱 3. Bioma Espelho | “Ecossistema Vivo”
+
+Explorei uma representação visual da rotina que poderia reagir a estudos, descanso, gastos e sobrecarga. O caminho trouxe uma perspectiva mais acolhedora e ligada à recuperação, mas mostrou que a representação visual, sozinha, não seria suficiente para apoiar a organização prática.
+
+### 🔁 Aplicação do ROTA
+
+Ao voltar ao ROTA, identifiquei o que cada experimento poderia oferecer à solução:
+
+- **Sandbox Preditivo:** antecipação;
+- **Deckbuilder Tático:** escolhas, limites e consequências;
+- **Bioma Espelho:** representação visual e recuperação.
+
+Em vez de escolher um caminho inteiro, combinei elementos dos três e comecei a construir **TURNO | “Seu dia em blocos. Sua vida no seu ritmo.”**
+
+O Gemini apoiou a ideação e a estruturação do jogo, a exploração dos três caminhos, a organização da experiência, das mecânicas e do level design. A autoria, as decisões e a combinação que deu origem ao TURNO fazem parte do meu processo de criação.
+
+### 💡 Descoberta atual
+
+Elementos de jogo não devem ser apenas uma camada visual sobre um planner. A próxima etapa é explorar como tempo, estudos, finanças e recuperação podem se conectar e produzir consequências entre si sem burocratizar a experiência.
+
+### 🧠 Aprendizado
+
+Testar três caminhos antes de construir mudou a direção da ideia e levou a uma quarta possibilidade combinada.
+
+### 🚧 Status
+
+O TURNO está **em construção**. Esta etapa registra o conceito inicial e a direção escolhida, não um jogo pronto, concluído ou validado.
+
+**[🎮 Acompanhar o TURNO](https://turnothegame.vercel.app/)**
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -2446,6 +2537,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
+| 🎮 **TURNO** | Iniciado no Desafio #01 da Semana 5; Gemini apoiou a ideação, a estruturação, as mecânicas e o level design | [Acompanhar](https://turnothegame.vercel.app/) |
 
 </div>
 
@@ -2466,6 +2558,14 @@ Utilizei o **Gemini Spark na base inicial do desenvolvimento e do código** do p
 Portal de aprendizagem por exploração, registrado na [Ação de Impacto da Semana 4](#semana4-impacto-lumi), com missões de estudo, organização e pensamento crítico.
 
 **[🌌 Explorar o Lumi Academy](https://lumi.goskip.app/)**
+
+<a id="turno"></a>
+
+### 🎮 TURNO — Seu dia em blocos. Sua vida no seu ritmo.
+
+Jogo **em construção**, iniciado no [Desafio #01 da Semana 5](#semana5-tres-caminhos). O Gemini apoiou a ideação e a estruturação do jogo, a exploração dos três caminhos, a organização da experiência, das mecânicas e do level design.
+
+**[🎮 Acompanhar o TURNO](https://turnothegame.vercel.app/)**
 
 <a id="conecta"></a>
 
@@ -2613,6 +2713,7 @@ Minha pergunta também mudou.
 - [x] 🔗 Conecta desenvolvido como App, API e Analytics integrados
 - [x] ✨ Lumi Academy criado para a Ação de Impacto da Semana 4
 - [x] 🗺️ Base inicial do Ancestria desenvolvida com Gemini Spark
+- [x] 🎮 TURNO iniciado no Desafio #01 da Semana 5
 
 ---
 
