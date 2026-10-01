@@ -163,7 +163,6 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
-- [♿ Projetos de hackathons compartilhados](#projetos-compartilhados)
 - [💬 Como meus prompts evoluíram](#evolucao-prompts)
 - [📈 Minha evolução](#minha-evolucao)
 - [🏆 Marcos da jornada](#marcos)
@@ -2644,6 +2643,10 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
 | 🎮 **TURNO** | Iniciado no Desafio #01 da Semana 5; Gemini apoiou a ideação, a estruturação, as mecânicas e o level design | [Acompanhar](https://turnothegame.vercel.app/) |
+| 🎮 **Madahao** | Base do projeto feita utilizando Gemini | [Abrir](https://madahaogame.vercel.app/) |
+| 🌎 **Polyglot RPG** | Base do projeto feita utilizando Gemini | [Abrir](https://polyglotrpggame.vercel.app/) |
+| 🔗 **Nexos** | Base do projeto feita utilizando Gemini | [Abrir](https://nexosgame.vercel.app/) |
+| 🌱 **Quintal Quântico** | Base do projeto feita utilizando Gemini | [Abrir](https://quintalquantico.vercel.app/) |
 
 </div>
 
@@ -2718,17 +2721,6 @@ Esses projetos mostram uma mudança importante:
 `TRANSFORMAR EM PROJETO REAL`
 
 </div>
-
----
-
-<a id="projetos-compartilhados"></a>
-
-### ♿ Projetos de hackathons compartilhados na Semana 5
-
-Compartilhei dois pitches na conversa sobre acessibilidade, como troca de experiências e incentivo à criação de soluções:
-
-- [🎬 Projeto para o Portal da CAPES](https://youtu.be/B4pKuuI9CuU)
-- [🎬 Outro projeto com foco em acessibilidade](https://www.youtube.com/watch?v=labDoBjKG3Y)
 
 ---
 
