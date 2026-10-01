@@ -2432,7 +2432,7 @@ O projeto se conecta à proposta “O que eu percebi” ao transformar temas de 
 
 ### 🌐 Minha criação
 
-**[✨ Explorar o Lumi Academy](https://lumi.goskip.app/)**
+**[✨ Explorar o Lumi Academy](https://lumiacademy.vercel.app/)**
 
 O portal apresenta oito competências: pensamento crítico, pesquisa inteligente, escrita criativa, organização, automação, criatividade, colaboração e resolução de problemas.
 
@@ -2668,7 +2668,7 @@ Na Semana 5, compartilhei o jogo como recurso para uma apresentação de espanho
 
 Portal de aprendizagem por exploração, registrado na [Ação de Impacto da Semana 4](#semana4-impacto-lumi), com missões de estudo, organização e pensamento crítico.
 
-**[🌌 Explorar o Lumi Academy](https://lumi.goskip.app/)**
+**[🌌 Explorar o Lumi Academy](https://lumiacademy.vercel.app/)**
 
 <a id="turno"></a>
 
@@ -2690,7 +2690,7 @@ Projeto integrado em três partes, com apoio do **Gemini Canvas** na construçã
 
 | 🖥️ **App** | ⚙️ **API** | 📊 **Analytics** |
 |:---:|:---:|:---:|
-| Telas, navegação e experiência do usuário.<br><br>[Demo](https://soubeatrizkaroline.github.io/conecta-app/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/) | Processamento e disponibilização dos dados.<br><br>[Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/) | Métricas, jornadas, filtros e gestão de ações.<br><br>[Demo](https://soubeatrizkaroline.github.io/conecta-analytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
+| Telas, navegação e experiência do usuário.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaApp/p/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/) | Processamento e disponibilização dos dados.<br><br>[Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/) | Métricas, jornadas, filtros e gestão de ações.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaAnalytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
 
 </div>
 
