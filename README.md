@@ -1539,7 +1539,7 @@ A proposta é criar um espaço de apoio coletivo entre estudantes, no qual dúvi
 
 <div align="center">
 
-### 🤝 [Abrir EntreNós](https://entrenos.goskip.app/)
+### 🤝 [Abrir EntreNós](https://entrenosproject.vercel.app/)
 
 </div>
 
@@ -1558,7 +1558,7 @@ A proposta é criar um espaço de apoio coletivo entre estudantes, no qual dúvi
 >
 > Se quiserem dar uma olhadinha:
 >
-> https://entrenos.goskip.app/
+> https://entrenosproject.vercel.app/
 >
 > Espero que gostem! E se tiverem alguma opinião, crítica ou ideia, vou adorar saber 💛
 
@@ -2638,7 +2638,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 |---|---|---|
 | 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir](https://rachaaiproject.vercel.app/) |
 | 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintaldasmissoesproject.vercel.app/) |
-| 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
+| 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenosproject.vercel.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
