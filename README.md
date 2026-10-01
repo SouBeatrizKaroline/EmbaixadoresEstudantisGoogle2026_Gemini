@@ -2637,7 +2637,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | Projeto | Como Gemini aparece | Link |
 |---|---|---|
 | 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir](https://rachaaiproject.vercel.app/) |
-| 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintal-das-missoes.vercel.app/) |
+| 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintaldasmissoesproject.vercel.app/) |
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
