@@ -2149,7 +2149,7 @@ Utilizei o **Gemini Canvas** para construir um portfólio público dedicado à m
 
 ## 🐱✨ Portfólio 2026
 
-### [🌐 Abrir portfólio criado no Gemini Canvas](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
+### [🌐 Abrir portfólio criado no Gemini Canvas](https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/)
 
 </div>
 
@@ -2639,7 +2639,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir](https://racha-ai.goskip.app/) |
 | 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintal-das-missoes.vercel.app/) |
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
-| 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
+| 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
 | 🎮 **TURNO** | Iniciado no Desafio #01 da Semana 5; Gemini apoiou a ideação, a estruturação, as mecânicas e o level design | [Acompanhar](https://turnothegame.vercel.app/) |

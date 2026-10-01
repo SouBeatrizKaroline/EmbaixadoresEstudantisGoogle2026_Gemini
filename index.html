@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Gemini em Missão — jornada de Beatriz Karoline como Embaixadora Estudantil do Google 2026." />
   <title>Gemini em Missão 🐱✨</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
   <style>
     :root{
       --bg:#07101f;
@@ -365,6 +366,10 @@
       .orb{width:260px}
       .layout{grid-template-columns:1fr}
       .sidebar{display:none}
+      .sidebar.mobile-open{
+        display:block; position:fixed; top:70px; left:14px; right:14px;
+        max-height:calc(100dvh - 90px); z-index:100; background:var(--card-solid);
+      }
       .mobile-menu{display:inline-grid}
       .card,.card.third{grid-column:1/-1}
     }
@@ -397,7 +402,7 @@
       </a>
       <div class="toolbar">
         <button class="pill-btn" id="expandBtn" title="Abrir ou fechar todas as atividades">🧩 <span class="label">Abrir tudo</span></button>
-        <button class="icon-btn mobile-menu" id="menuBtn" title="Abrir navegação">☰</button>
+        <button class="icon-btn mobile-menu" id="menuBtn" title="Abrir navegação" aria-label="Abrir navegação" aria-controls="sidebar" aria-expanded="false">☰</button>
         <button class="icon-btn" id="catBtn" title="Mensagem do Batman">🐈‍⬛</button>
         <button class="icon-btn" id="themeBtn" title="Alternar tema">☀️</button>
       </div>
@@ -412,7 +417,7 @@
       <div class="hero-actions">
         <a class="cta primary" href="#jornada">🚀 Explorar jornada</a>
         <a class="cta" href="#projetos">🤖 Ver projetos</a>
-        <a class="cta" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/" target="_blank" rel="noopener">🌐 Portfólio Canvas</a>
+        <a class="cta" href="https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/" target="_blank" rel="noopener">🌐 Portfólio Canvas</a>
       </div>
       <div class="tag-row">
         <span class="tag">🤖 Gemini</span><span class="tag">🎓 Educação</span><span class="tag">💻 Tecnologia</span>
@@ -964,7 +969,7 @@ E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então 
             <div class="quote">A ferramenta não precisa definir o problema; o problema e o contexto ajudam a definir como a ferramenta será utilizada.</div>
             <h4>🌐 Aplicação prática</h4>
             <p>Usei o Gemini Canvas para construir um portfólio público dedicado à jornada.</p>
-            <div class="media"><a class="cta primary" target="_blank" rel="noopener" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/">🐱✨ Abrir Portfólio 2026</a></div>
+            <div class="media"><a class="cta primary" target="_blank" rel="noopener" href="https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/">🐱✨ Abrir Portfólio 2026</a></div>
           </div>
         </details>
 
@@ -1126,12 +1131,12 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
           <div><div class="eyebrow">🚀 Além das atividades</div><h2>Projetos que utilizam <span class="gradient-text">Gemini</span></h2><p>Quando a experimentação deixa de ser só uma resposta e passa a virar algo público e testável.</p></div>
         </div>
         <div class="grid">
-          <a class="card third project" href="https://racha-ai.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤖</div><h3>Racha AI</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
-          <a class="card third project" href="https://quintal-das-missoes.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🌱</div><h3>Quintal das Missões</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
-          <a class="card third project" href="https://entrenos.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤝</div><h3>EntreNós</h3><p>Protótipo que nasceu do Radar de Oportunidades.</p><span class="tag">Abrir projeto ↗</span></a>
-          <a class="card wide project" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/" target="_blank" rel="noopener"><div class="emoji">🐱✨</div><h3>Portfólio da Jornada 2026</h3><p>Criado com Gemini Canvas para reunir e apresentar publicamente a evolução da jornada.</p><span class="tag">Abrir portfólio ↗</span></a>
-          <a class="card third project" href="https://ancestriagame.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🗺️</div><h3>Ancestria</h3><p>Jogo de exploração histórica e educativa em 3D, compartilhado na Semana 5 para uma apresentação de espanhol sobre Los Mexicas (astecas). A base inicial do desenvolvimento e do código foi criada utilizando Gemini Spark.</p><span class="tag">Explorar o jogo ↗</span></a>
-          <a class="card third project" href="https://lumiacademy.vercel.app/" target="_blank" rel="noopener"><div class="emoji">✨</div><h3>Lumi Academy</h3><p>Criação da jornada para a Ação de Impacto da Semana 4: aprendizagem por exploração, com missões de estudo, organização e pensamento crítico.</p><span class="tag">Explorar o portal ↗</span></a>
+          <a class="card third project searchable" href="https://racha-ai.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤖</div><h3>Racha AI</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card third project searchable" href="https://quintal-das-missoes.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🌱</div><h3>Quintal das Missões</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card third project searchable" href="https://entrenos.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤝</div><h3>EntreNós</h3><p>Protótipo que nasceu do Radar de Oportunidades.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card wide project searchable" href="https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/" target="_blank" rel="noopener"><div class="emoji">🐱✨</div><h3>Portfólio da Jornada 2026</h3><p>Criado com Gemini Canvas para reunir e apresentar publicamente a evolução da jornada.</p><span class="tag">Abrir portfólio ↗</span></a>
+          <a class="card third project searchable" href="https://ancestriagame.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🗺️</div><h3>Ancestria</h3><p>Jogo de exploração histórica e educativa em 3D, compartilhado na Semana 5 para uma apresentação de espanhol sobre Los Mexicas (astecas). A base inicial do desenvolvimento e do código foi criada utilizando Gemini Spark.</p><span class="tag">Explorar o jogo ↗</span></a>
+          <a class="card third project searchable" href="https://lumiacademy.vercel.app/" target="_blank" rel="noopener"><div class="emoji">✨</div><h3>Lumi Academy</h3><p>Criação da jornada para a Ação de Impacto da Semana 4: aprendizagem por exploração, com missões de estudo, organização e pensamento crítico.</p><span class="tag">Explorar o portal ↗</span></a>
           <a class="card third project searchable" href="https://turnothegame.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🎮</div><h3>TURNO</h3><p>Jogo em construção, iniciado no Desafio #01 da Semana 5 e aprofundado com PARTS no Desafio #02. O Gemini apoiou a ideação, a estruturação da experiência, as mecânicas e o level design.</p><span class="tag">Acompanhar o projeto ↗</span></a>
           <a class="card third project searchable" href="https://madahaogame.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🎮</div><h3>Madahao</h3><p>Base do projeto feita utilizando Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
           <a class="card third project searchable" href="https://polyglotrpggame.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🌎</div><h3>Polyglot RPG</h3><p>Base do projeto feita utilizando Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
@@ -1228,7 +1233,7 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
             <input class="search" id="search" type="search" placeholder="Pesquisar atividades e conteúdos..." aria-label="Pesquisar atividades" />
             <button class="pill-btn" id="clearSearch">Limpar</button>
           </div>
-          <div class="counter" id="counter">Todas as atividades visíveis.</div>
+          <div class="counter" id="counter" role="status" aria-live="polite">Todas as atividades visíveis.</div>
         </div>
       </section>
     </main>
@@ -1262,16 +1267,21 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
     const catToast = document.getElementById('catToast');
     const catText = document.getElementById('catText');
 
+    // Preferências opcionais: o site funciona mesmo sem acesso ao armazenamento.
+    const preferences = {
+      get(key){ try { return localStorage.getItem(key); } catch { return null; } },
+      set(key,value){ try { localStorage.setItem(key,value); } catch {} }
+    };
     // Tema
-    const savedTheme = localStorage.getItem('gemini-missao-theme');
-    if (savedTheme) root.dataset.theme = savedTheme;
+    const savedTheme = preferences.get('gemini-missao-theme');
+    if (savedTheme === 'light' || savedTheme === 'dark') root.dataset.theme = savedTheme;
     function syncThemeIcon(){
       themeBtn.textContent = root.dataset.theme === 'light' ? '🌙' : '☀️';
     }
     syncThemeIcon();
     themeBtn.addEventListener('click',()=>{
       root.dataset.theme = root.dataset.theme === 'light' ? 'dark' : 'light';
-      localStorage.setItem('gemini-missao-theme', root.dataset.theme);
+      preferences.set('gemini-missao-theme', root.dataset.theme);
       syncThemeIcon();
     });
 
@@ -1303,13 +1313,24 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
       expandBtn.innerHTML = allOpen ? '🧶 <span class="label">Recolher tudo</span>' : '🧩 <span class="label">Abrir tudo</span>';
     });
 
-    // Menu mobile
+    // Navegação móvel acessível, sem depender de diálogos do navegador.
+    function closeMobileMenu(){
+      sidebar.classList.remove('mobile-open');
+      menuBtn.setAttribute('aria-expanded','false');
+    }
     menuBtn.addEventListener('click',()=>{
-      const links = [...document.querySelectorAll('.nav-link')];
-      const labels = links.map((a,i)=>`${i+1}. ${a.textContent.trim()}`).join('\n');
-      const choice = prompt('Ir para qual seção?\\n\\n' + labels);
-      const i = Number(choice)-1;
-      if (links[i]) links[i].click();
+      const opened = sidebar.classList.toggle('mobile-open');
+      menuBtn.setAttribute('aria-expanded',String(opened));
+      if (opened) sidebar.querySelector('.nav-link').focus();
+    });
+    sidebar.addEventListener('click',event=>{
+      if (event.target.closest('.nav-link')) closeMobileMenu();
+    });
+    document.addEventListener('keydown',event=>{
+      if (event.key === 'Escape' && sidebar.classList.contains('mobile-open')){
+        closeMobileMenu();
+        menuBtn.focus();
+      }
     });
 
     // Navegação ativa
@@ -1330,17 +1351,17 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
     const counter = document.getElementById('counter');
     const searchable = [...document.querySelectorAll('.searchable')];
     function normalize(s){
-      return s.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase();
+      return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
     }
     function runSearch(){
       const q = normalize(search.value.trim());
       let visible = 0;
       searchable.forEach(el=>{
-        const hit = !q || normalize(el.innerText).includes(q);
+        const hit = !q || normalize(el.textContent).includes(q);
         el.classList.toggle('hidden-by-search', !hit);
-        if(hit){ visible++; if(q) el.open = true; }
+        if(hit){ visible++; if(q && el.matches('details')) el.open = true; }
       });
-      counter.textContent = q ? `${visible} atividade(s) encontrada(s) para “${search.value.trim()}”.` : 'Todas as atividades visíveis.';
+      counter.textContent = q ? `${visible} resultado(s) encontrado(s) para “${search.value.trim()}”.` : 'Todas as atividades visíveis.';
     }
     search.addEventListener('input', runSearch);
     clearSearch.addEventListener('click',()=>{search.value='';runSearch();search.focus()});
@@ -1361,14 +1382,16 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
       toastTimer = setTimeout(()=>catToast.classList.remove('show'),4200);
     });
 
-    // Lembrar quais blocos estavam abertos
-    const topDetails = [...document.querySelectorAll('main > section details.activity')];
-    topDetails.forEach((d,i)=>{
-      const key='gemini-missao-detail-'+i;
-      const saved=localStorage.getItem(key);
-      if(saved !== null) d.open = saved === '1';
-      d.addEventListener('toggle',()=>localStorage.setItem(key,d.open?'1':'0'));
-    });
+    // Abrir uma atividade acessada por um link direto.
+    function openLinkedActivity(){
+      const target = document.getElementById(location.hash.slice(1));
+      if (target && target.matches('details.activity')) target.open = true;
+      updateProgress();
+    }
+    addEventListener('hashchange', openLinkedActivity);
+    addEventListener('pageshow', openLinkedActivity);
+    addEventListener('resize', updateProgress);
+    activities.forEach(d => d.addEventListener('toggle', updateProgress));
 
     // Pequena animação de entrada
     const cards = document.querySelectorAll('.card, details.activity');
