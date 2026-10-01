@@ -2690,7 +2690,7 @@ Projeto integrado em três partes, com apoio do **Gemini Canvas** na construçã
 
 | 🖥️ **App** | ⚙️ **API** | 📊 **Analytics** |
 |:---:|:---:|:---:|
-| Telas, navegação e experiência do usuário.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaApp/p/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/) | Processamento e disponibilização dos dados.<br><br>[Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/) | Métricas, jornadas, filtros e gestão de ações.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaAnalytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
+| Telas, navegação e experiência do usuário.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaApp/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/) | Processamento e disponibilização dos dados.<br><br>[Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/) | Métricas, jornadas, filtros e gestão de ações.<br><br>[Demo](https://soubeatrizkaroline.github.io/HackathonConexaoAncestral2026_ConectaAnalytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
 
 </div>
 
