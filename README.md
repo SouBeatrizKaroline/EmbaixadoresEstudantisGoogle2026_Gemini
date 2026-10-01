@@ -152,7 +152,10 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <details>
 <summary><strong>🎮 Semana 5 — Um desafio, três caminhos</strong></summary>
 
+- [🎙️ Conversa com Googler #01 — Acessibilidade e inclusão](#semana5-acessibilidade)
 - [🎮 Desafio #01 — Um desafio, três caminhos](#semana5-tres-caminhos)
+- [🧩 Desafio #02 — Dê direção ao seu caminho](#semana5-parts)
+- [📣 Ação de Impacto — Método ROTA](#semana5-impacto-rota)
 
 </details>
 
@@ -160,6 +163,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
+- [♿ Projetos de hackathons compartilhados](#projetos-compartilhados)
 - [💬 Como meus prompts evoluíram](#evolucao-prompts)
 - [📈 Minha evolução](#minha-evolucao)
 - [🏆 Marcos da jornada](#marcos)
@@ -195,7 +199,10 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 15–17/09/2026 | 🗓️ Semana 4 | Minha Rotina em Ordem | ✅ |
 | 16/09/2026 | 🗓️ Semana 4 | Mural de Organização da Vida Acadêmica | 📝 |
 | 18/09/2026 | 🗓️ Semana 4 | O que eu levo desta semana · Lumi Academy | 🛠️ Projeto criado |
+| 22/09/2026 | 🎮 Semana 5 | Conversa com Googler #01 · Acessibilidade e inclusão | ✅ |
 | 23/09/2026 | 🎮 Semana 5 | Um desafio, três caminhos · TURNO | 🛠️ Em construção |
+| 24/09/2026 | 🎮 Semana 5 | Dê direção ao seu caminho · PARTS | ✅ |
+| 24/09/2026 | 🎮 Semana 5 | Ação de Impacto · Método ROTA no TikTok | ✅ |
 
 ---
 
@@ -2442,15 +2449,38 @@ O portal apresenta oito competências: pensamento crítico, pesquisa inteligente
 
 # 🎮 SEMANA 5 — Um desafio, três caminhos
 
-### 📅 Setembro de 2026
+### 📅 21 a 25 de setembro de 2026 · Estágio 2 | Explora
 
 <div align="center">
 
-**Explorar → Comparar → Combinar → Construir**
+**Explorar → Comparar → Direcionar → Construir**
 
 </div>
 
-Nesta semana, o ponto de partida foi explorar três caminhos realmente diferentes para um mesmo problema antes de decidir o que construir.
+No Estágio 2 | Explora, comparei caminhos para um mesmo problema e usei o método PARTS para aprofundar a direção escolhida.
+
+---
+
+<a id="semana5-acessibilidade"></a>
+
+<details open>
+<summary><strong>🎙️ Conversa com Googler #01 — Acessibilidade e inclusão</strong></summary>
+
+### 📅 22/09/2026
+
+### 🚀 O que eu fiz
+
+Participei da conversa com Bernardo Barlach, Gerente de Programa de Acessibilidade e Relacionamento Externo para a América Latina no Google. Compartilhei uma reflexão sobre como os ambientes também precisam se adaptar às pessoas.
+
+### 🧠 O que aprendi
+
+Acessibilidade e inclusão são uma construção coletiva e contínua, com escuta e mudanças nos ambientes, além do esforço individual de quem enfrenta barreiras.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
 
 ---
 
@@ -2521,6 +2551,82 @@ O TURNO está **em construção**. Esta etapa registra o conceito inicial e a di
 
 ---
 
+<a id="semana5-parts"></a>
+
+<details open>
+<summary><strong>🧩 Desafio #02 — Dê direção ao seu caminho</strong></summary>
+
+### 📅 24/09/2026
+
+### 🎯 O que foi proposto
+
+Retomar a situação e a abordagem do primeiro desafio, reconstruir o comando com PARTS e testá-lo em uma nova conversa com Gemini para comparar os resultados.
+
+### 🚀 O que eu fiz
+
+Usei PARTS para aprofundar as conexões entre os sistemas do TURNO.
+
+### 🎭 P | Papel
+
+Especialista em Game Design Sistêmico e UX.
+
+### 🎯 A | Ação
+
+Explorar conexões e consequências entre tempo, estudos, finanças e recuperação.
+
+### 📚 R | Referências e público
+
+Estudantes, contexto do projeto e aprendizados dos três experimentos anteriores.
+
+### 💬 T | Tom
+
+Pragmático, criativo, acolhedor e analítico, sem linguagem de cobrança.
+
+### 📐 S | Saída e especificações
+
+Rede de causa e efeito, consequências no ambiente, mecânicas de baixo atrito e hipóteses para o próximo protótipo.
+
+### 🔎 O que mudou
+
+O Gemini passou de propor conceitos de jogo a aprofundar como os sistemas do TURNO poderiam se conectar: trocas entre recursos, macroblocos, margem para imprevistos e mudanças no ambiente em pixel art. As sugestões ainda precisam de avaliação: o jogo não deve sugerir que altera prazos acadêmicos reais nem tratar relações entre descanso, foco, dinheiro e estudos como regras universais.
+
+### 🧠 Aprendizado
+
+Explorar ajudou a descobrir possibilidades; o PARTS ajudou a aprofundar uma direção depois dos testes. As estratégias funcionaram melhor em momentos diferentes.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana5-impacto-rota"></a>
+
+<details open>
+<summary><strong>📣 Ação de Impacto — Método ROTA</strong></summary>
+
+### 📅 24/09/2026
+
+### 🎯 O que foi proposto
+
+Transformar uma descoberta da semana em conteúdo autoral que ajude outras pessoas.
+
+### 🚀 O que eu fiz
+
+Publiquei no TikTok sobre o método ROTA: Relação com o objetivo, Outro olhar, Teste na prática e Aplicabilidade.
+
+**[📱 Perfil onde publiquei](https://www.tiktok.com/@1aspiraqualquer)**
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -2549,6 +2655,8 @@ Jogo de exploração histórica e educativa em 3D, com um percurso inicial por M
 
 Utilizei o **Gemini Spark na base inicial do desenvolvimento e do código** do projeto.
 
+Na Semana 5, compartilhei o jogo como recurso para uma apresentação de espanhol sobre **Los Mexicas (astecas)**, acompanhado de slides com QR Code.
+
 **[🎮 Explorar o Ancestria](https://ancestriagame.vercel.app/)**
 
 <a id="lumi-academy"></a>
@@ -2562,6 +2670,8 @@ Portal de aprendizagem por exploração, registrado na [Ação de Impacto da Sem
 <a id="turno"></a>
 
 ### 🎮 TURNO — Seu dia em blocos. Sua vida no seu ritmo.
+
+No [Desafio #02](#semana5-parts), usei PARTS para aprofundar as conexões entre tempo, estudos, finanças e recuperação.
 
 Jogo **em construção**, iniciado no [Desafio #01 da Semana 5](#semana5-tres-caminhos). O Gemini apoiou a ideação e a estruturação do jogo, a exploração dos três caminhos, a organização da experiência, das mecânicas e do level design.
 
@@ -2608,6 +2718,17 @@ Esses projetos mostram uma mudança importante:
 `TRANSFORMAR EM PROJETO REAL`
 
 </div>
+
+---
+
+<a id="projetos-compartilhados"></a>
+
+### ♿ Projetos de hackathons compartilhados na Semana 5
+
+Compartilhei dois pitches na conversa sobre acessibilidade, como troca de experiências e incentivo à criação de soluções:
+
+- [🎬 Projeto para o Portal da CAPES](https://youtu.be/B4pKuuI9CuU)
+- [🎬 Outro projeto com foco em acessibilidade](https://www.youtube.com/watch?v=labDoBjKG3Y)
 
 ---
 
@@ -2714,6 +2835,9 @@ Minha pergunta também mudou.
 - [x] ✨ Lumi Academy criado para a Ação de Impacto da Semana 4
 - [x] 🗺️ Base inicial do Ancestria desenvolvida com Gemini Spark
 - [x] 🎮 TURNO iniciado no Desafio #01 da Semana 5
+- [x] 🎙️ Conversa com Googler #01 — Acessibilidade e inclusão
+- [x] 🧩 PARTS aplicado ao TURNO no Desafio #02
+- [x] 📣 Conteúdo sobre ROTA publicado no TikTok
 
 ---
 
