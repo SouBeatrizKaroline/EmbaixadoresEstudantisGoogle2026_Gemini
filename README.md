@@ -3055,6 +3055,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenosproject.vercel.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/EmbaixadoresEstudantisGoogle2026_Portfolio/) |
 | 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
+| 📚 **Dex's** | Coleção de projetos; base do Anatodex feita utilizando Gemini | [Ver projetos da coleção](#projetos-dexs) |
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
 | 🎮 **TURNO** | Iniciado no Desafio #01 da Semana 5; Gemini apoiou a ideação, a estruturação, as mecânicas e o level design | [Acompanhar](https://turnothegame.vercel.app/) |
 | 🎮 **Madahao** | Base do projeto feita utilizando Gemini | [Abrir](https://madahaogame.vercel.app/) |
@@ -3068,14 +3069,20 @@ A jornada também transbordou das atividades do programa para projetos próprios
 
 ### 📚 Dex's
 
-| Projeto | Como Gemini aparece | Link |
-|---|---|---|
-| 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
-| 🌌 **Cosmodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-cosmodex.vercel.app/) |
-| 🌍 **Geodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-geodex.vercel.app/) |
-| 📖 **Marcodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-marcodex.vercel.app/) |
-| 🌿 **Floradex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-floradex.vercel.app/) |
-| 🐾 **Faunadex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-faunadex.vercel.app/) |
+Coleção de projetos reunidos em um único espaço. A base do Anatodex foi feita utilizando Gemini.
+
+<div align="center">
+
+| Projeto | Link |
+|:---|:---:|
+| 📚 **Anatodex** | [Abrir](https://eegoogle-anatodex.vercel.app/) |
+| 🌌 **Cosmodex** | [Abrir](https://eegoogle-cosmodex.vercel.app/) |
+| 🌍 **Geodex** | [Abrir](https://eegoogle-geodex.vercel.app/) |
+| 📖 **Marcodex** | [Abrir](https://eegoogle-marcodex.vercel.app/) |
+| 🌿 **Floradex** | [Abrir](https://eegoogle-floradex.vercel.app/) |
+| 🐾 **Faunadex** | [Abrir](https://eegoogle-faunadex.vercel.app/) |
+
+</div>
 
 <a id="ancestria"></a>
 
