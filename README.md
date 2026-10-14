@@ -172,6 +172,16 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 </details>
 
 <details>
+<summary><strong>🌿 Semana 7 — Conversar, criar e compartilhar</strong></summary>
+
+- [💬 Aquecimento — Antes eu… Hoje eu…](#semana7-antes-hoje)
+- [🎙️ Desafio #01 — Puxa uma conversa](#semana7-puxa-conversa)
+- [🎮 Criação compartilhada — Hackathons e empresas juniores](#semana7-jogo-spark)
+- [🏁 Retrospectiva e check-out — Semana 7](#semana7-retrospectiva)
+
+</details>
+
+<details>
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
@@ -220,6 +230,10 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 01/10/2026 | 🔎 Semana 6 | Sessão Gemini #04 · Reflexões sobre Gemini Live | 💬 |
 | 01/10/2026 | 🔎 Semana 6 | Ação de Impacto · Resultado no TikTok | ✅ |
 | 02–05/10/2026 | 🔎 Semana 6 | Fechamento e prorrogação do check-out | 📝 Envio não confirmado |
+| 06/10/2026 | 🌿 Semana 7 | Antes eu… Hoje eu… · Da pergunta à criação de jogos | 💬 |
+| 06/10/2026 | 🌿 Semana 7 | Jogo sobre hackathons e empresas juniores · Gemini Spark | 🛠️ Em evolução |
+| 09/10/2026 | 🌿 Semana 7 | Puxa uma conversa · Movimento de personagem | 📝 Proposta planejada |
+| 10/10/2026 | 🌿 Semana 7 | Envio do check-out | ✅ |
 
 ---
 
@@ -2889,6 +2903,142 @@ Eram solicitados prints dos caminhos compartilhados nos dois desafios e links ou
 
 ---
 
+<a id="semana7"></a>
+
+# 🌿 SEMANA 7 — Conversar, criar e compartilhar
+
+### 📅 05 a 09 de outubro de 2026
+
+<div align="center">
+
+**Refletir → Conversar → Planejar → Compartilhar**
+
+</div>
+
+Nesta semana de ritmo mais leve, refleti sobre como meu uso do Gemini mudou, compartilhei uma criação e planejei uma experiência para ensinar a lógica de movimento de um personagem em um jogo.
+
+---
+
+<a id="semana7-antes-hoje"></a>
+
+<details open>
+<summary><strong>💬 Aquecimento — Antes eu… Hoje eu…</strong></summary>
+
+### 📅 06/10/2026 · 💬 Reflexão compartilhada
+
+### 🎯 O que foi proposto
+
+Olhar para a própria trajetória e completar “Antes eu ___. Hoje eu ___.”, identificando uma mudança no jeito de perguntar, pesquisar, criar ou avaliar as respostas do Gemini.
+
+### 💬 Minha resposta
+
+> Antes eu usava muito para perguntar coisas. Hoje eu uso para construir coisas, principalmente jogos.
+
+### 🧠 O que essa mudança representa
+
+O Gemini passou a fazer parte do meu processo de criação. Os jogos que venho construindo ajudam a mostrar essa passagem das perguntas para a experimentação e a construção.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana7-puxa-conversa"></a>
+
+<details open>
+<summary><strong>🎙️ Desafio #01 — Puxa uma conversa</strong></summary>
+
+### 📅 09/10/2026 · 📝 Proposta planejada
+
+### 🎯 O que foi proposto
+
+Usar o Gemini Live para pensar no primeiro encontro de um Grupo de Estudos. Começar com contexto e intenção, pedir perguntas para refinar a ideia e construir a proposta pela conversa. O desafio foi apresentado em 07/10; compartilhei minha resposta em 09/10.
+
+### 💬 Minha proposta
+
+> O primeiro encontro do meu Grupo de Estudos seria sobre criar a lógica para um personagem andar em um jogo, e eu gostaria que as pessoas saíssem dele com uma ideia de como começar a programar esse movimento.
+
+### 💡 A melhor dica do Gemini
+
+Dividir o encontro em pequenas etapas, com um desafio prático e espaço para cada participante apresentar sua solução.
+
+### 🔄 Como pensei a aplicação
+
+Como estudo online, planejei a proposta pensando em uma possível abertura futura para encontros online. Naquela semana, a modalidade oficial dos Grupos de Estudos era presencial; registrei o planejamento, sem realizar um encontro.
+
+### 🧠 O que aprendi
+
+A conversa ajudou a transformar uma intenção ampla em uma atividade com objetivo concreto: começar pela lógica do movimento, experimentar e abrir espaço para comparar soluções. Também refleti sobre como os formatos de participação precisam considerar diferentes rotinas e condições de acesso.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana7-jogo-spark"></a>
+
+<details open>
+<summary><strong>🎮 Criação compartilhada — Hackathons e empresas juniores</strong></summary>
+
+### 📅 06/10/2026 · 🛠️ Projeto em evolução
+
+### 🚀 O que compartilhei
+
+Durante uma troca sobre ideathons, compartilhei um jogo que aborda hackathons, empresas juniores e temas relacionados. Expliquei que usei o Gemini Spark para construir a base do jogo e que ainda pretendia melhorá-lo.
+
+### 👀 Conexão com a semana
+
+A criação dá um exemplo concreto do meu “antes e hoje”: usar o Gemini para construir experiências e compartilhar o que venho criando com a comunidade.
+
+### 🌐 Minha criação
+
+[🎮 Explorar o jogo](https://ccm-rotaxp.vercel.app/)
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana7-retrospectiva"></a>
+
+<details open>
+<summary><strong>🏁 Retrospectiva e check-out — Semana 7</strong></summary>
+
+### 📅 10/10/2026 · ✅ Envio confirmado
+
+### 🌿 Um ritmo mais leve
+
+A semana foi dedicada a conversar, refletir sobre a jornada e planejar uma experiência de aprendizagem. A agenda também incluiu o Café com Team Leaders em 08/10, um encontro de aproximação sem pontuação no check-out.
+
+### 🧠 O que levo desta semana
+
+Uma conversa pode começar com uma intenção e ganhar forma aos poucos. Para o encontro sobre programação de jogos, pequenas etapas, prática e troca de soluções ajudaram a tornar a proposta mais clara.
+
+### 🏁 Registro da semana
+
+Em 10/10, confirmei no grupo que fiz o check-out e lembrei os colegas do prazo: 11/10/2026, às 23h59, no horário de Brasília.
+
+### 📸 Atividades e evidências
+
+O fechamento permitia registrar o desafio com Gemini Live, publicações sobre os aprendizados e, quando realizado, um Grupo de Estudos presencial. Meu registro desta semana confirma o planejamento do desafio e o envio do check-out; não atribui pontuação pessoal ou realização do encontro.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -3098,6 +3248,10 @@ Minha pergunta também mudou.
 - [x] 🎩 Dossiê refinado com o Chapéu Verde · Versão 2
 - [x] 🎙️ Ideias de uso compartilhadas após a sessão Gemini Live
 - [x] 📣 Resultado da Semana 6 compartilhado no TikTok
+- [x] 💬 Reflexão sobre a passagem das perguntas à criação de jogos
+- [x] 🎙️ Encontro sobre movimento de personagem planejado com Gemini
+- [x] 🎮 Jogo sobre hackathons compartilhado · Base com Gemini Spark
+- [x] 🏁 Check-out da Semana 7 enviado
 
 ---
 
