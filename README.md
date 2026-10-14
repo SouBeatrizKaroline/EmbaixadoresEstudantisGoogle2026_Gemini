@@ -185,6 +185,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
+- [📚 Dex's](#projetos-dexs)
 - [💬 Como meus prompts evoluíram](#evolucao-prompts)
 - [📈 Minha evolução](#minha-evolucao)
 - [🏆 Marcos da jornada](#marcos)
@@ -3062,6 +3063,14 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🌱 **Quintal Quântico** | Base do projeto feita utilizando Gemini | [Abrir](https://quintalquantico.vercel.app/) |
 
 </div>
+
+<a id="projetos-dexs"></a>
+
+### 📚 Dex's
+
+| Projeto | Como Gemini aparece | Link |
+|---|---|---|
+| 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
 
 <a id="ancestria"></a>
 
