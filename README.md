@@ -156,6 +156,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [🎮 Desafio #01 — Um desafio, três caminhos](#semana5-tres-caminhos)
 - [🧩 Desafio #02 — Dê direção ao seu caminho](#semana5-parts)
 - [📣 Ação de Impacto — Método ROTA](#semana5-impacto-rota)
+- [🏁 Retrospectiva e check-out](#semana5-retrospectiva)
 
 </details>
 
@@ -202,6 +203,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 23/09/2026 | 🎮 Semana 5 | Um desafio, três caminhos · TURNO | 🛠️ Em construção |
 | 24/09/2026 | 🎮 Semana 5 | Dê direção ao seu caminho · PARTS | ✅ |
 | 24/09/2026 | 🎮 Semana 5 | Ação de Impacto · Método ROTA no TikTok | ✅ |
+| 25/09/2026 | 🎮 Semana 5 | Retrospectiva e envio do check-out | ✅ |
 
 ---
 
@@ -2579,7 +2581,7 @@ Estudantes, contexto do projeto e aprendizados dos três experimentos anteriores
 
 ### 💬 T | Tom
 
-Pragmático, criativo, acolhedor e analítico, sem linguagem de cobrança.
+Pragmático, criativo, acolhedor e analítico, evitando linguagem de cobrança e gamificação baseada apenas em pontos e recompensas.
 
 ### 📐 S | Saída e especificações
 
@@ -2588,6 +2590,15 @@ Rede de causa e efeito, consequências no ambiente, mecânicas de baixo atrito e
 ### 🔎 O que mudou
 
 O Gemini passou de propor conceitos de jogo a aprofundar como os sistemas do TURNO poderiam se conectar: trocas entre recursos, macroblocos, margem para imprevistos e mudanças no ambiente em pixel art. As sugestões ainda precisam de avaliação: o jogo não deve sugerir que altera prazos acadêmicos reais nem tratar relações entre descanso, foco, dinheiro e estudos como regras universais.
+
+| Momento | Como conduzi a interação | O que trouxe para o TURNO |
+|---|---|---|
+| 🔀 Exploração inicial | Uma pergunta aberta e três caminhos para a mesma situação | Possibilidades para comparar e combinar antes de escolher uma direção |
+| 🧩 Direcionamento com PARTS | Papel, ação, referências e público, tom e saída definidos a partir dos testes | Aprofundamento das conexões entre os sistemas e hipóteses para o próximo protótipo |
+
+### 🔄 O que eu ajustaria
+
+Manteria a direção do comando, mas revisaria as sugestões antes de incorporá-las ao jogo. Dar mais contexto ajuda a direcionar a resposta; avaliar se cada proposta faz sentido continua sendo parte do meu trabalho.
 
 ### 🧠 Aprendizado
 
@@ -2612,11 +2623,54 @@ Explorar ajudou a descobrir possibilidades; o PARTS ajudou a aprofundar uma dire
 
 Transformar uma descoberta da semana em conteúdo autoral que ajude outras pessoas.
 
+O formato era livre: mostrar os três caminhos, explicar a abordagem que destravou o desafio, comparar o comando antes e depois do PARTS ou compartilhar uma descoberta do experimento. A proposta incluía a hashtag **#EmbaixadoresEstudantisGoogle** e o registro do link ou de uma evidência para o check-out.
+
 ### 🚀 O que eu fiz
 
 Publiquei no TikTok sobre o método ROTA: Relação com o objetivo, Outro olhar, Teste na prática e Aplicabilidade.
 
 **[📱 Perfil onde publiquei](https://www.tiktok.com/@1aspiraqualquer)**
+
+### 👀 Conexão com a semana
+
+Levei para além do grupo o método usado para comparar os caminhos do primeiro desafio. A publicação sobre ROTA foi registrada em 24/09, antes da orientação de fechamento de 25/09.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana5-retrospectiva"></a>
+
+<details open>
+<summary><strong>🏁 Retrospectiva e check-out — Semana 5</strong></summary>
+
+### 📅 25/09/2026 · ✅ Envio registrado
+
+### 🌱 Antes
+
+Comecei com uma pergunta aberta sobre como ajudar estudantes a lidar com tempo, estudos, finanças e descanso. Ainda precisava descobrir quais caminhos faziam sentido para essa experiência.
+
+### 🚀 Depois
+
+Comparei três abordagens, combinei aprendizados no TURNO e usei PARTS para aprofundar as conexões entre os sistemas. O projeto continua em construção; o fechamento da semana registra os experimentos e aprendizados dessa etapa.
+
+### ⭐ Maior aprendizado
+
+> **Explorar quando ainda preciso descobrir caminhos; direcionar quando já tenho uma intenção mais clara. Comparar e revisar os resultados faz parte dos dois momentos.**
+
+### 🏁 Registro da semana
+
+Em 25/09, registrei o envio do check-out. O prazo informado para essa semana era **27/09/2026, às 23h59, no horário de Brasília**.
+
+O fechamento pedia evidências dos dois desafios e de até duas ações de impacto. A participação na Conversa com Googler seria contabilizada pelo registro de presença. O teto anunciado era de **150 pontos**: 25 por desafio, até 80 pelas ações de impacto e 20 pela conversa. Esse é o limite possível da semana, não uma pontuação pessoal confirmada.
+
+### 🗓️ Novo ritmo da jornada
+
+A partir desse fechamento, a dinâmica passou a prever check-in e novas atividades às segundas-feiras, com check-out liberado às sextas e disponível até domingo, às 23h59, no horário de Brasília.
 
 <br>
 
@@ -2830,6 +2884,7 @@ Minha pergunta também mudou.
 - [x] 🎙️ Conversa com Googler #01 — Acessibilidade e inclusão
 - [x] 🧩 PARTS aplicado ao TURNO no Desafio #02
 - [x] 📣 Conteúdo sobre ROTA publicado no TikTok
+- [x] 🏁 Check-out da Semana 5 enviado
 
 ---
 
