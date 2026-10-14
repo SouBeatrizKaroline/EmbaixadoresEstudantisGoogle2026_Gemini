@@ -3071,6 +3071,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | Projeto | Como Gemini aparece | Link |
 |---|---|---|
 | 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
+| 🌌 **Cosmodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-cosmodex.vercel.app/) |
 
 <a id="ancestria"></a>
 
