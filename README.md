@@ -3072,6 +3072,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 |---|---|---|
 | 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
 | 🌌 **Cosmodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-cosmodex.vercel.app/) |
+| 🌍 **Geodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-geodex.vercel.app/) |
 
 <a id="ancestria"></a>
 
