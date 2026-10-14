@@ -3074,6 +3074,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🌌 **Cosmodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-cosmodex.vercel.app/) |
 | 🌍 **Geodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-geodex.vercel.app/) |
 | 📖 **Marcodex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-marcodex.vercel.app/) |
+| 🌿 **Floradex** | Projeto da coleção Dex's | [Abrir](https://eegoogle-floradex.vercel.app/) |
 
 <a id="ancestria"></a>
 
