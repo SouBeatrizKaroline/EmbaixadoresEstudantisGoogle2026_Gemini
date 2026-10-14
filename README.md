@@ -161,6 +161,17 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 </details>
 
 <details>
+<summary><strong>🔎 Semana 6 — Investigar, comparar e repensar</strong></summary>
+
+- [🔎 Desafio #01 — 3 caminhos antes de 1](#semana6-tres-caminhos)
+- [🎩 Desafio #02 — 6 perspectivas, 1 nova versão](#semana6-chapeus)
+- [🎙️ Sessão Gemini #04 — Gemini Live](#semana6-gemini-live)
+- [📣 Ação de Impacto — Compartilhando o resultado](#semana6-impacto)
+- [🏁 Retrospectiva e check-out — Semana 6](#semana6-retrospectiva)
+
+</details>
+
+<details>
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
@@ -204,6 +215,11 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 24/09/2026 | 🎮 Semana 5 | Dê direção ao seu caminho · PARTS | ✅ |
 | 24/09/2026 | 🎮 Semana 5 | Ação de Impacto · Método ROTA no TikTok | ✅ |
 | 25/09/2026 | 🎮 Semana 5 | Retrospectiva e envio do check-out | ✅ |
+| 01/10/2026 | 🔎 Semana 6 | 3 caminhos antes de 1 · Dossiê para hackathons | 💡 Proposta compartilhada |
+| 01/10/2026 | 🔎 Semana 6 | 6 perspectivas, 1 nova versão · Receitas de integração | ✨ Versão 2 compartilhada |
+| 01/10/2026 | 🔎 Semana 6 | Sessão Gemini #04 · Reflexões sobre Gemini Live | 💬 |
+| 01/10/2026 | 🔎 Semana 6 | Ação de Impacto · Resultado no TikTok | ✅ |
+| 02–05/10/2026 | 🔎 Semana 6 | Fechamento e prorrogação do check-out | 📝 Envio não confirmado |
 
 ---
 
@@ -2680,6 +2696,199 @@ A partir desse fechamento, a dinâmica passou a prever check-in e novas atividad
 
 ---
 
+<a id="semana6"></a>
+
+# 🔎 SEMANA 6 — Investigar, comparar e repensar
+
+### 📅 28 de setembro a 02 de outubro de 2026
+
+<div align="center">
+
+**Investigar → Comparar → Escolher → Repensar → Compartilhar**
+
+</div>
+
+A pergunta da semana foi: “qual outro caminho eu ainda não enxerguei?”. Investiguei um cenário voltado a hackathons, compartilhei uma proposta de dossiê e a refinei com os 6 Chapéus do Pensamento.
+
+---
+
+<a id="semana6-tres-caminhos"></a>
+
+<details open>
+<summary><strong>🔎 Desafio #01 — 3 caminhos antes de 1</strong></summary>
+
+### 📅 01/10/2026 · 💡 Caminho compartilhado
+
+### 🎯 O que foi proposto
+
+Investigar um cenário acadêmico com Gemini Deep Research, revisar o plano de pesquisa, formular três alternativas curtas e só então escolher uma, considerando evidências, limitações e formas de colocá-la à prova. A atividade foi proposta em 29/09; compartilhei meu caminho em 01/10.
+
+### 🛠️ Cenário escolhido
+
+Cenário C | Dossiê de Ferramentas, Conjuntos de Dados e Licenças Estudantis. Direcionei o tema para estudantes que precisam construir projetos durante hackathons.
+
+### 💬 Meu caminho
+
+> Criar um dossiê para hackathons que reúna fontes de dados públicos reais e ferramentas gratuitas de IA e prototipagem rápida, ajudando estudantes a transformar esses dados em MVPs funcionais em pouco tempo.
+
+### 🎯 Por que escolhi esse caminho
+
+Na justificativa que compartilhei, destaquei que a pesquisa apontou APIs públicas, bases abertas e ferramentas de geração rápida de interfaces como recursos para reduzir o tempo de desenvolvimento e usar dados reais em vez de depender apenas de informações simuladas.
+
+### 🚧 Status da proposta
+
+O registro desta etapa é o caminho escolhido e compartilhado com #Semana6 #CenarioC. O dossiê aparece como proposta; não há uma entrega final ou um link do material nesses registros.
+
+### 🧠 Aprendizado
+
+A investigação passou a orientar a escolha dos recursos: além de encontrar ferramentas, era preciso considerar o tempo disponível para transformar dados em um protótipo funcional.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana6-chapeus"></a>
+
+<details open>
+<summary><strong>🎩 Desafio #02 — 6 perspectivas, 1 nova versão</strong></summary>
+
+### 📅 01/10/2026 · ✨ Versão 2 compartilhada
+
+### 🎯 O que foi proposto
+
+Analisar o caminho escolhido com os 6 Chapéus do Pensamento e o apoio do Gemini. A proposta era receber um ponto-chave por perspectiva, selecionar um ou dois aspectos úteis e escrever a própria Versão 2. A decisão e a reescrita continuavam sendo minhas. O desafio foi proposto em 30/09; compartilhei a revisão em 01/10.
+
+### 🎩 As seis perspectivas
+
+- 🤍 Branco | Fatos e evidências
+- ❤️ Vermelho | Sentimentos e percepções
+- 💚 Verde | Criatividade e adaptações
+- 💛 Amarelo | Benefícios e oportunidades
+- 🖤 Preto | Riscos e limitações
+- 💙 Azul | Processo e próximos passos
+
+### 💬 Meu caminho | Versão 2
+
+> Criar um dossiê prático para hackathons com fontes de dados públicos, ferramentas gratuitas de IA e prototipagem rápida, organizado em receitas de integração simples e com critérios de escolha que priorizem baixo tempo de configuração e reduzam o risco de gastar horas tratando dados.
+
+### 💚 O chapéu que mais me fez repensar
+
+O Chapéu Verde: percebi que um simples catálogo de ferramentas poderia ser pouco útil sob a pressão de tempo de um hackathon. Transformar o material em receitas de integração rápida tornava a proposta mais prática e aplicável.
+
+### 🔄 O que mudou
+
+Antes, a proposta reunia fontes e ferramentas. Na Versão 2, a organização passou a priorizar receitas de integração, baixo tempo de configuração e menor esforço de tratamento de dados.
+
+### 🧠 Aprendizado
+
+A utilidade do dossiê depende também de como os recursos podem ser usados juntos. O refinamento mudou o formato da proposta para aproximá-la das condições reais de um hackathon.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana6-gemini-live"></a>
+
+<details open>
+<summary><strong>🎙️ Sessão Gemini #04 — Gemini Live</strong></summary>
+
+### 📅 01/10/2026 · 💬 Reflexões compartilhadas
+
+### 🎯 O que foi explorado
+
+A sessão apresentou a interação por voz em tempo real com Gemini Live como apoio para fazer perguntas, tirar dúvidas e aprofundar ideias em uma conversa.
+
+### 💬 O que compartilhei
+
+- Transformar livros em audiolivros
+- Ou ver uma discussão em tempo real em um fórum
+
+### 💡 Possibilidades que imaginei
+
+Compartilhei essas ideias como possibilidades de uso inspiradas pela sessão. Elas registram interesses de exploração, sem constituir funcionalidades testadas ou projetos implementados nesta etapa.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana6-impacto"></a>
+
+<details open>
+<summary><strong>📣 Ação de Impacto — Compartilhando o resultado</strong></summary>
+
+### 📅 01/10/2026 · ✅ Publicação registrada
+
+### 🎯 O que foi proposto
+
+Transformar aprendizados, reflexões ou dicas da semana em conteúdo autoral ou stories, usando #EmbaixadoresEstudantisGoogle e guardando o link ou uma evidência. Era possível selecionar até duas publicações para o check-out.
+
+### 🚀 O que eu fiz
+
+Registrei no grupo que fiz uma postagem sobre o resultado e compartilhei o link do TikTok.
+
+### 🌐 Minha publicação
+
+[📱 Ver publicação no TikTok](https://vt.tiktok.com/ZSbfXBPdm/)
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana6-retrospectiva"></a>
+
+<details open>
+<summary><strong>🏁 Retrospectiva e check-out — Semana 6</strong></summary>
+
+### 📅 02/10/2026 · 📝 Fechamento orientado
+
+### 🌱 Antes
+
+O ponto de partida era descobrir quais dados e ferramentas poderiam ajudar estudantes a desenvolver projetos em hackathons.
+
+### 🚀 Depois
+
+A proposta passou de reunir recursos a organizá-los em receitas práticas de integração. O Chapéu Verde ajudou a repensar o formato a partir da pressão de tempo de quem participa de um hackathon.
+
+### ⭐ Maior aprendizado
+
+> Investigar antes de escolher e revisar a escolha por outras perspectivas ajudou a transformar uma ideia de catálogo em uma proposta mais aplicável.
+
+### 💬 Desdobramento na comunidade · 03/10
+
+Também trouxe uma provocação sobre integrar login com conta Google em projetos de hackathon: é uma integração que pode ser evitada pelo tempo disponível, mas que vale explorar. O registro foi um convite à experimentação, sem uma implementação apresentada.
+
+### 🏁 Orientações de check-out
+
+O fechamento foi anunciado em 02/10. O prazo inicial era 04/10/2026, às 23h59, no horário de Brasília, e foi prorrogado excepcionalmente até 05/10/2026, às 23h59. Não há confirmação de envio do meu formulário nas mensagens deste período.
+
+### 📸 Evidências e pontuação prevista
+
+Eram solicitados prints dos caminhos compartilhados nos dois desafios e links ou prints de até duas ações de impacto. A presença na Sessão Gemini #04 seria contabilizada pela lista do encontro. O teto anunciado era de 150 pontos: 25 por desafio, até 80 pelas publicações e 20 pela sessão. Esse teto não representa uma pontuação pessoal confirmada.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -2885,6 +3094,10 @@ Minha pergunta também mudou.
 - [x] 🧩 PARTS aplicado ao TURNO no Desafio #02
 - [x] 📣 Conteúdo sobre ROTA publicado no TikTok
 - [x] 🏁 Check-out da Semana 5 enviado
+- [x] 🔎 Caminho para o dossiê de hackathons compartilhado
+- [x] 🎩 Dossiê refinado com o Chapéu Verde · Versão 2
+- [x] 🎙️ Ideias de uso compartilhadas após a sessão Gemini Live
+- [x] 📣 Resultado da Semana 6 compartilhado no TikTok
 
 ---
 
