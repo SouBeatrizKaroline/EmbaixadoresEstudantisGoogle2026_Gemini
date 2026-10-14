@@ -185,6 +185,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
+- [📚 Dex's](#projetos-dexs)
 - [💬 Como meus prompts evoluíram](#evolucao-prompts)
 - [📈 Minha evolução](#minha-evolucao)
 - [🏆 Marcos da jornada](#marcos)
@@ -3057,12 +3058,19 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🗺️ **Ancestria** | Base inicial do desenvolvimento e do código criada utilizando Gemini Spark | [Jogar](https://ancestriagame.vercel.app/) |
 | 🎮 **TURNO** | Iniciado no Desafio #01 da Semana 5; Gemini apoiou a ideação, a estruturação, as mecânicas e o level design | [Acompanhar](https://turnothegame.vercel.app/) |
 | 🎮 **Madahao** | Base do projeto feita utilizando Gemini | [Abrir](https://madahaogame.vercel.app/) |
-| 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
 | 🌎 **Polyglot RPG** | Base do projeto feita utilizando Gemini | [Abrir](https://polyglotrpggame.vercel.app/) |
 | 🔗 **Nexos** | Base do projeto feita utilizando Gemini | [Abrir](https://nexosgame.vercel.app/) |
 | 🌱 **Quintal Quântico** | Base do projeto feita utilizando Gemini | [Abrir](https://quintalquantico.vercel.app/) |
 
 </div>
+
+<a id="projetos-dexs"></a>
+
+### 📚 Dex's
+
+| Projeto | Como Gemini aparece | Link |
+|---|---|---|
+| 📚 **Anatodex** | Base do projeto feita utilizando Gemini | [Abrir](https://eegoogle-anatodex.vercel.app/) |
 
 <a id="ancestria"></a>
 
