@@ -3062,6 +3062,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🌎 **Polyglot RPG** | Base do projeto feita utilizando Gemini | [Abrir](https://polyglotrpggame.vercel.app/) |
 | 🔗 **Nexos** | Base do projeto feita utilizando Gemini | [Abrir](https://nexosgame.vercel.app/) |
 | 🌱 **Quintal Quântico** | Base do projeto feita utilizando Gemini | [Abrir](https://quintalquantico.vercel.app/) |
+| 🐱 **Mothicat** | Base do projeto feita utilizando Gemini | [Jogar](https://mothicatgame.vercel.app/) |
 
 </div>
 
