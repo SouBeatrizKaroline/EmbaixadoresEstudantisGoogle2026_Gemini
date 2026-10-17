@@ -410,7 +410,7 @@ Mas fui percebendo que networking também envolve perguntas importantes:
 - quais informações realmente precisam ser compartilhadas?
 - quem precisa ter acesso?
 - por quanto tempo?
-- como deixar claro que participar é opcional?
+- como comunicar que participar é opcional?
 - como evitar exposição desnecessária?
 - como equilibrar descoberta, colaboração e segurança?
 
@@ -875,7 +875,7 @@ Durante a preparação da primeira semana, o **Team 03** escolheu um mascote par
 > ✅ Mais conexão entre estudantes.  
 > ✅ Mais criatividade e inovação.  
 > ✅ Mais inteligência artificial para transformar realidades.  
-> ✅ E, claro, muito mais fofura nessa jornada! 🐾
+> ✅ E, com certeza, muito mais fofura nessa jornada! 🐾
 >
 > **CHIBI ELEITO! A escolha do TEAM 03!** 💙❤️💛💚
 
@@ -1898,7 +1898,7 @@ Ela aparecia principalmente na construção de uma **representação mental orga
 - identificar hierarquias;
 - conectar causa e efeito;
 - recuperar informações;
-- transformar o que compreendi em uma explicação clara.
+- transformar o que compreendi em uma explicação compreensível.
 
 Isso abriu uma hipótese para o desafio seguinte:
 
@@ -1960,7 +1960,7 @@ Quero que você seja meu apoio de raciocínio visual. Ainda não gere nenhuma im
 
 3. VISUALIZE: Proponha 3 maneiras diferentes de dar forma visual a essas ideias. Você pode considerar, quando fizer sentido: mapa mental, mapa conceitual, fluxograma, storyboard, analogia visual, sketchnote/anotações visuais, linha do tempo, diagrama, infográfico ou outra técnica adequada.
 
-4. CONECTE: Para cada possibilidade visual, mostre quais relações entre os elementos deveriam ficar claramente representadas.
+4. CONECTE: Para cada possibilidade visual, mostre quais relações entre os elementos deveriam ficar representadas de forma compreensível.
 
 5. ANALISE MINHA HIPÓTESE: Compare sua análise com a minha hipótese inicial. Diga-me se parece coerente e explique brevemente o porquê.
 
@@ -2049,7 +2049,7 @@ por exemplo...
 
 </div>
 
-A metáfora do novelo representa o processo de encontrar a “pontinha” de uma ideia e seguir o fio até que as relações fiquem mais claras.
+A metáfora do novelo representa o processo de encontrar a “pontinha” de uma ideia e seguir o fio até que as relações fiquem mais compreensíveis.
 
 ### 💬 Texto que compartilhei
 
@@ -2234,7 +2234,7 @@ Contar:
 - qual era o desafio;
 - o que dificultava a compreensão;
 - como a representação visual ajudou;
-- o que ficou mais claro.
+- o que passei a compreender melhor.
 
 #### 🧩 Rota 2 — Resumo da Sessão Gemini #03
 
@@ -2703,7 +2703,7 @@ Comparei três abordagens, combinei aprendizados no TURNO e usei PARTS para apro
 
 ### ⭐ Maior aprendizado
 
-> **Explorar quando ainda preciso descobrir caminhos; direcionar quando já tenho uma intenção mais clara. Comparar e revisar os resultados faz parte dos dois momentos.**
+> **Explorar quando ainda preciso descobrir caminhos; direcionar quando já tenho uma intenção mais definida. Comparar e revisar os resultados faz parte dos dois momentos.**
 
 ### 🏁 Registro da semana
 
@@ -3034,7 +3034,7 @@ A semana foi dedicada a conversar, refletir sobre a jornada e planejar uma exper
 
 ### 🧠 O que levo desta semana
 
-Uma conversa pode começar com uma intenção e ganhar forma aos poucos. Para o encontro sobre programação de jogos, pequenas etapas, prática e troca de soluções ajudaram a tornar a proposta mais clara.
+Uma conversa pode começar com uma intenção e ganhar forma aos poucos. Para o encontro sobre programação de jogos, pequenas etapas, prática e troca de soluções ajudaram a tornar a proposta mais bem estruturada.
 
 ### 🏁 Registro da semana
 
@@ -3101,7 +3101,7 @@ Os números descrevem contribuições, não estudantes únicos ou a prevalência
 
 ### 🧠 O que aprendi
 
-Um insight precisa de uma pergunta clara, dados de sustentação e limites explícitos. Organizar e visualizar ajuda, mas também é necessário revisar duplicatas, conferir a classificação e distinguir observação de interpretação.
+Um insight precisa de uma pergunta bem definida, dados de sustentação e limites explícitos. Organizar e visualizar ajuda, mas também é necessário revisar duplicatas, conferir a classificação e distinguir observação de interpretação.
 
 <br>
 
