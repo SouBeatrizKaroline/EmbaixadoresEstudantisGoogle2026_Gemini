@@ -187,7 +187,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [🔎 Desafio — Do Dado ao Insight](#semana8-insight)
 - [🎙️ Agenda — Connected Apps e Masterclass](#semana8-encontros)
 - [🐾 Aquecimento — Que tipo de analista?](#semana8-aquecimento)
-- [🏁 Retrospectiva e check-out — Semana 8](#semana8-retrospectiva)
+- [🧠 Retrospectiva — Semana 8](#semana8-retrospectiva)
 
 </details>
 
@@ -247,7 +247,6 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 10/10/2026 | 🌿 Semana 7 | Envio do check-out | ✅ |
 | 13–16/10/2026 | 📊 Semana 8 | Connected Apps · Aquecimento · Masterclass | 🗓️ Agenda registrada | 
 | 17/10/2026 | 📊 Semana 8 | Do Dado ao Insight · Análise do mural com Gemini | 📊 Análise preparada |
-| 18/10/2026 | 📊 Semana 8 | Prazo do check-out às 23h59 (Brasília) | 📝 Envio não confirmado |
 
 ---
 
@@ -3074,7 +3073,7 @@ Nesta semana, usei o Gemini como apoio para investigar as contribuições do mur
 <details open>
 <summary><strong>🔎 Desafio — Do Dado ao Insight</strong></summary>
 
-### 📅 14/10 · Análise preparada em 17/10 · 📊 Análise realizada · Compartilhamento não confirmado
+### 📅 14/10 · Análise preparada em 17/10 · 📊 Análise realizada
 
 ### 🎯 O que foi proposto
 
@@ -3104,10 +3103,6 @@ Os números descrevem contribuições, não estudantes únicos ou a prevalência
 
 Um insight precisa de uma pergunta clara, dados de sustentação e limites explícitos. Organizar e visualizar ajuda, mas também é necessário revisar duplicatas, conferir a classificação e distinguir observação de interpretação.
 
-### 📸 Registro da entrega
-
-A análise está preparada. A publicação no grupo, o comentário no insight de outro participante e o envio da evidência no check-out ainda não estão confirmados neste registro.
-
 <br>
 
 [⬆️ Voltar ao sumário](#sumario)
@@ -3121,7 +3116,7 @@ A análise está preparada. A publicação no grupo, o comentário no insight de
 <details open>
 <summary><strong>🎙️ Agenda — Connected Apps e Masterclass</strong></summary>
 
-### 📅 13 e 16/10/2026 · 🗓️ Agenda da semana · Presenças não confirmadas
+### 📅 13 e 16/10/2026 · 🗓️ Agenda da semana
 
 ### 🔗 Sessão Gemini #05 — Connected Apps
 
@@ -3129,7 +3124,7 @@ Em 13/10, a agenda trouxe conexões do Gemini com aplicativos e informações da
 
 ### 🎙️ Masterclass com Creator #02
 
-Em 16/10, o encontro com Leo Candido abordou inteligência artificial, transformação e cocriação. A presença pessoal nos dois encontros não foi confirmada nos materiais usados nesta atualização.
+Em 16/10, o encontro com Leo Candido abordou inteligência artificial, transformação e cocriação.
 
 <br>
 
@@ -3154,10 +3149,6 @@ A enquete convidou a reconhecer como cada pessoa se comporta diante dos dados, c
 
 > Eu me identifico um pouco com cada um dos quatro perfis, porque minha forma de analisar depende da situação. Se os dados estão bagunçados, começo organizando; quando preciso enxergar melhor as informações, recorro a tabelas e gráficos. Ao explorar os resultados, procuro padrões e pontos fora do comum e, quando encontro algo interessante, questiono se as evidências realmente sustentam aquela interpretação. Para mim, esses olhares se complementam ao longo da análise.
 
-### 📝 Recados da semana
-
-Também foram reforçados o caráter voluntário dos encontros presenciais, as orientações para evidências e o lembrete da masterclass. Não houve um novo desafio com entrega específica para esse dia nas mensagens consultadas.
-
 <br>
 
 [⬆️ Voltar ao sumário](#sumario)
@@ -3169,21 +3160,13 @@ Também foram reforçados o caráter voluntário dos encontros presenciais, as o
 <a id="semana8-retrospectiva"></a>
 
 <details open>
-<summary><strong>🏁 Retrospectiva e check-out — Semana 8</strong></summary>
+<summary><strong>🧠 Retrospectiva — Semana 8</strong></summary>
 
-### 📅 16 a 18/10/2026 · 📝 Envio não confirmado
+### 🧠 Reflexão da semana
 
 ### 🧠 O que levo desta semana
 
 Ter dados disponíveis não significa ter respostas. O aprendizado foi investigar com contexto, conferir evidências e evitar transformar padrões em conclusões automáticas.
-
-### 📸 Evidência do desafio
-
-O fechamento solicita o print da mensagem com pergunta, descoberta e relevância publicada no grupo. O desafio prevê 25 pontos, sujeitos à validação; não há pontuação pessoal confirmada neste registro.
-
-### 🏁 Prazo e situação
-
-O prazo informado para o check-out é 18/10/2026, às 23h59, no horário de Brasília. O envio ainda não foi confirmado. As presenças nos encontros são registradas separadamente pelo QR code.
 
 <br>
 
@@ -3429,8 +3412,6 @@ Minha pergunta também mudou.
 - [x] 🏁 Check-out da Semana 7 enviado
 - [x] 📊 Análise do mural com apoio do Gemini · Semana 8
 - [x] ⚖️ Revisão das evidências e limitações do insight
-- [ ] 📸 Compartilhamento e evidência do desafio da Semana 8
-- [ ] 🏁 Check-out da Semana 8 enviado
 
 ---
 
