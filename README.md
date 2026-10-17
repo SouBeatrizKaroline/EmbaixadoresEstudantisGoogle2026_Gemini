@@ -182,6 +182,16 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 </details>
 
 <details>
+<summary><strong>📊 Semana 8 — Do dado ao insight</strong></summary>
+
+- [🔎 Desafio — Do Dado ao Insight](#semana8-insight)
+- [🎙️ Agenda — Connected Apps e Masterclass](#semana8-encontros)
+- [🐾 Aquecimento — Que tipo de analista?](#semana8-aquecimento)
+- [🏁 Retrospectiva e check-out — Semana 8](#semana8-retrospectiva)
+
+</details>
+
+<details>
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
@@ -235,6 +245,9 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 06/10/2026 | 🌿 Semana 7 | Jogo sobre hackathons e empresas juniores · Gemini Spark | 🛠️ Em evolução |
 | 09/10/2026 | 🌿 Semana 7 | Puxa uma conversa · Movimento de personagem | 📝 Proposta planejada |
 | 10/10/2026 | 🌿 Semana 7 | Envio do check-out | ✅ |
+| 13–16/10/2026 | 📊 Semana 8 | Connected Apps · Aquecimento · Masterclass | 🗓️ Agenda registrada | 
+| 17/10/2026 | 📊 Semana 8 | Do Dado ao Insight · Análise do mural com Gemini | 📊 Análise preparada |
+| 18/10/2026 | 📊 Semana 8 | Prazo do check-out às 23h59 (Brasília) | 📝 Envio não confirmado |
 
 ---
 
@@ -3040,6 +3053,142 @@ O fechamento permitia registrar o desafio com Gemini Live, publicações sobre o
 
 ---
 
+<a id="semana8"></a>
+
+# 📊 SEMANA 8 — Do dado ao insight
+
+### 📅 12 a 16 de outubro de 2026
+
+<div align="center">
+
+**Coletar → Preparar → Visualizar → Descobrir**
+
+</div>
+
+Nesta semana, usei o Gemini como apoio para investigar as contribuições do mural acadêmico. O foco foi transformar dados em uma descoberta sustentada por evidências, reconhecendo duplicatas, limitações e os riscos de inferir dificuldades a partir de dicas.
+
+---
+
+<a id="semana8-insight"></a>
+
+<details open>
+<summary><strong>🔎 Desafio — Do Dado ao Insight</strong></summary>
+
+### 📅 14/10 · Análise preparada em 17/10 · 📊 Análise realizada · Compartilhamento não confirmado
+
+### 🎯 O que foi proposto
+
+Investigar uma pergunta a partir das contribuições do Mural de Organização da Vida Acadêmica, com o apoio do Gemini: coletar, preparar, visualizar e descobrir.
+
+### 🔍 Minha pergunta
+
+Quais temas de organização acadêmica aparecem com mais frequência nas contribuições do mural?
+
+### 🧹 Como organizei a análise
+
+A análise com apoio do Gemini examinou 713 registros, distribuídos entre categoria, dica e uso do Gemini. Foram identificadas 30 repetições do par dica + uso do Gemini, 34 dicas repetidas e registros de teste. As contagens abaixo ainda incluem esses registros; não representam uma base já deduplicada.
+
+### 📊 O que os dados mostraram
+
+Organização da rotina reuniu 300 contribuições (42,08%), seguida de Estudo, com 183 (25,67%). Depois vieram Tarefas e projetos, com 77; Exames e provas, com 65; Vida universitária, com 48; Pesquisa, com 25; e Leituras, com 15.
+
+### 💡 Minha descoberta
+
+A organização do cotidiano ocupa o maior espaço entre as categorias do mural. Nos exemplos examinados aparecem planejamento semanal, divisão de tarefas em pequenas etapas e organização de compromissos com apoio da IA.
+
+### ⚖️ O que a base permite concluir
+
+Os números descrevem contribuições, não estudantes únicos ou a prevalência de dificuldades. O mural reúne dicas, e não uma pesquisa direta sobre problemas acadêmicos. A classificação exploratória por palavras-chave favorecia os temas testados primeiro; por isso, não adotei a estimativa de cerca de 70% como conclusão.
+
+### 🧠 O que aprendi
+
+Um insight precisa de uma pergunta clara, dados de sustentação e limites explícitos. Organizar e visualizar ajuda, mas também é necessário revisar duplicatas, conferir a classificação e distinguir observação de interpretação.
+
+### 📸 Registro da entrega
+
+A análise está preparada. A publicação no grupo, o comentário no insight de outro participante e o envio da evidência no check-out ainda não estão confirmados neste registro.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana8-encontros"></a>
+
+<details open>
+<summary><strong>🎙️ Agenda — Connected Apps e Masterclass</strong></summary>
+
+### 📅 13 e 16/10/2026 · 🗓️ Agenda da semana · Presenças não confirmadas
+
+### 🔗 Sessão Gemini #05 — Connected Apps
+
+Em 13/10, a agenda trouxe conexões do Gemini com aplicativos e informações da rotina para apoiar estudos, organização e tarefas.
+
+### 🎙️ Masterclass com Creator #02
+
+Em 16/10, o encontro com Leo Candido abordou inteligência artificial, transformação e cocriação. A presença pessoal nos dois encontros não foi confirmada nos materiais usados nesta atualização.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana8-aquecimento"></a>
+
+<details open>
+<summary><strong>🐾 Aquecimento — Que tipo de analista?</strong></summary>
+
+### 📅 15/10/2026 · 💬 Dinâmica anunciada
+
+### 🎯 O que aconteceu
+
+Foi anunciada uma dinâmica rápida para identificar os tipos de “analistas” presentes no grupo. O material disponível não traz as opções nem uma resposta pessoal.
+
+### 📝 Recados da semana
+
+Também foram reforçados o caráter voluntário dos encontros presenciais, as orientações para evidências e o lembrete da masterclass. Não houve um novo desafio com entrega específica para esse dia nas mensagens consultadas.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana8-retrospectiva"></a>
+
+<details open>
+<summary><strong>🏁 Retrospectiva e check-out — Semana 8</strong></summary>
+
+### 📅 16 a 18/10/2026 · 📝 Envio não confirmado
+
+### 🧠 O que levo desta semana
+
+Ter dados disponíveis não significa ter respostas. O aprendizado foi investigar com contexto, conferir evidências e evitar transformar padrões em conclusões automáticas.
+
+### 📸 Evidência do desafio
+
+O fechamento solicita o print da mensagem com pergunta, descoberta e relevância publicada no grupo. O desafio prevê 25 pontos, sujeitos à validação; não há pontuação pessoal confirmada neste registro.
+
+### 🏁 Prazo e situação
+
+O prazo informado para o check-out é 18/10/2026, às 23h59, no horário de Brasília. O envio ainda não foi confirmado. As presenças nos encontros são registradas separadamente pelo QR code.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -3274,6 +3423,10 @@ Minha pergunta também mudou.
 - [x] 🎙️ Encontro sobre movimento de personagem planejado com Gemini
 - [x] 🎮 Jogo sobre hackathons compartilhado · Base com Gemini Spark
 - [x] 🏁 Check-out da Semana 7 enviado
+- [x] 📊 Análise do mural com apoio do Gemini · Semana 8
+- [x] ⚖️ Revisão das evidências e limitações do insight
+- [ ] 📸 Compartilhamento e evidência do desafio da Semana 8
+- [ ] 🏁 Check-out da Semana 8 enviado
 
 ---
 
