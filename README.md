@@ -3213,7 +3213,7 @@ A proposta foi olhar para experiências reais e reconhecer habilidades que já a
 <details open>
 <summary><strong>🗺️ Desafio — Mapa de Habilidades e Competências</strong></summary>
 
-### 📅 21–23/10/2026 · ✅ Mapa, resumo e reflexão compartilhados no grupo
+### 📅 Desafio enviado em 21/10/2026 · ✅ Mapa, resumo e reflexão compartilhados em 23/10/2026
 
 ### 🎯 O que foi proposto
 
