@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Mapa de habilidades e competências — missão em águas quânticas</title>
+<desc id="desc">Mapa de aventura náutica com evidências da contribuição pessoal de Beatriz no hackathon de computação quântica e uma conquista coletiva identificada separadamente.</desc>
+<defs>
+  <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#10294d"/><stop offset="1" stop-color="#0a1d38"/></linearGradient>
+  <linearGradient id="card" x2="1" y2="1"><stop stop-color="#182e54"/><stop offset="1" stop-color="#132644"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="760" rx="34" fill="url(#sea)"/>
+<g opacity=".25" stroke="#6de3ff" stroke-width="1">
+ <path d="M40 120H1160M40 220H1160M40 320H1160M40 420H1160M40 520H1160M40 620H1160"/>
+ <path d="M100 90V680M200 90V680M300 90V680M400 90V680M500 90V680M600 90V680M700 90V680M800 90V680M900 90V680M1000 90V680M1100 90V680"/>
+</g>
+<g fill="none" stroke="#6de3ff" stroke-width="5" stroke-dasharray="11 13" opacity=".85">
+ <path d="M95 424C180 424 220 426 300 424S438 424 515 424 660 426 740 424 880 422 960 424 1050 425 1100 424"/>
+</g>
+<g fill="#ffd66d" stroke="#0b1730" stroke-width="5" filter="url(#glow)">
+ <circle cx="195" cy="424" r="13"/><circle cx="500" cy="424" r="13"/><circle cx="805" cy="424" r="13"/><circle cx="1080" cy="424" r="13"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="56" y="58" fill="#6de3ff" font-size="20" font-weight="700" letter-spacing="3">DIÁRIO DE BORDO · MISSÃO 09</text>
+ <text x="56" y="104" fill="#f7f9ff" font-size="34" font-weight="800">Minha jornada de habilidades</text>
+ <text x="56" y="139" fill="#aebbd6" font-size="19">Hackathon de computação quântica · Jogo de sonda quântica para navios</text>
+ <g>
+  <rect x="45" y="177" width="350" height="214" rx="24" fill="url(#card)" stroke="#76a7ff" stroke-width="2"/>
+  <circle cx="82" cy="216" r="20" fill="#76a7ff"/><text x="76" y="223" fill="#07101f" font-size="18" font-weight="800">1</text>
+  <text x="114" y="223" fill="#f7f9ff" font-size="20" font-weight="700">Experiência do jogador</text>
+  <text x="70" y="264" fill="#dce7fb" font-size="17">
+   <tspan x="70" dy="0">Ajudei a pensar a progressão:</tspan><tspan x="70" dy="25">mar aberto no início; obstáculos</tspan><tspan x="70" dy="25">como bombas entram aos poucos.</tspan>
+  </text>
+  <rect x="70" y="355" width="210" height="25" rx="12" fill="#203e68"/><text x="82" y="373" fill="#6de3ff" font-size="14" font-weight="700">CRIATIVIDADE · UX DE JOGO</text>
+ </g>
+ <g>
+  <rect x="425" y="177" width="350" height="214" rx="24" fill="url(#card)" stroke="#b58cff" stroke-width="2"/>
+  <circle cx="462" cy="216" r="20" fill="#b58cff"/><text x="456" y="223" fill="#07101f" font-size="18" font-weight="800">2</text>
+  <text x="494" y="223" fill="#f7f9ff" font-size="20" font-weight="700">Liderança prática</text>
+  <text x="450" y="264" fill="#dce7fb" font-size="17">
+   <tspan x="450" dy="0">Assumi tarefas técnicas e ajudei</tspan><tspan x="450" dy="25">a organizar o trabalho por etapas;</tspan><tspan x="450" dy="25">o pitch foi escolhido em equipe.</tspan>
+  </text>
+  <rect x="450" y="355" width="235" height="25" rx="12" fill="#302953"/><text x="462" y="373" fill="#cbb6ff" font-size="14" font-weight="700">INICIATIVA · ORGANIZAÇÃO</text>
+ </g>
+ <g>
+  <rect x="805" y="177" width="350" height="214" rx="24" fill="url(#card)" stroke="#7be7b5" stroke-width="2"/>
+  <circle cx="842" cy="216" r="20" fill="#7be7b5"/><text x="836" y="223" fill="#07101f" font-size="18" font-weight="800">3</text>
+  <text x="874" y="223" fill="#f7f9ff" font-size="20" font-weight="700">Aprendizagem contínua</text>
+  <text x="830" y="264" fill="#dce7fb" font-size="17">
+   <tspan x="830" dy="0">Faço cursos, uso IA para buscar</tspan><tspan x="830" dy="25">soluções e sigo aprendendo sobre</tspan><tspan x="830" dy="25">blockchain e carteiras digitais.</tspan>
+  </text>
+  <rect x="830" y="355" width="255" height="25" rx="12" fill="#183b3c"/><text x="842" y="373" fill="#7be7b5" font-size="14" font-weight="700">CURIOSIDADE · TECNOLOGIA</text>
+ </g>
+ <g>
+  <rect x="90" y="480" width="475" height="190" rx="24" fill="#111f3d" stroke="#ffd66d" stroke-width="2"/>
+  <text x="120" y="519" fill="#ffd66d" font-size="18" font-weight="800">🏁 CONQUISTA DA EQUIPE</text>
+  <text x="120" y="556" fill="#dce7fb" font-size="17">
+   <tspan x="120" dy="0">Após concluir o jogo principal, a equipe</tspan><tspan x="120" dy="25">aproveitou o tempo restante para criar</tspan><tspan x="120" dy="25">projetos mais simples de vídeo e som.</tspan>
+  </text>
+ </g>
+ <g>
+  <rect x="635" y="480" width="475" height="190" rx="24" fill="#111f3d" stroke="#ff8ec7" stroke-width="2"/>
+  <text x="665" y="519" fill="#ff8ec7" font-size="18" font-weight="800">📍 PRÓXIMA MISSÃO</text>
+  <text x="665" y="556" fill="#dce7fb" font-size="17">
+   <tspan x="665" dy="0">Confiar mais na própria capacidade de</tspan><tspan x="665" dy="25">liderar e aprofundar os conhecimentos</tspan><tspan x="665" dy="25">em IA, blockchain e carteiras digitais.</tspan>
+  </text>
+ </g>
+ <text x="56" y="720" fill="#aebbd6" font-size="14">As evidências distinguem as contribuições pessoais dos resultados construídos pela equipe.</text>
+</g>
+</svg>
