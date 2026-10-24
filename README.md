@@ -255,7 +255,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 09/10/2026 | 🌿 Semana 7 | Puxa uma conversa · Movimento de personagem | 📝 Proposta planejada |
 | 10/10/2026 | 🌿 Semana 7 | Envio do check-out | ✅ |
 | 13–16/10/2026 | 📊 Semana 8 | Connected Apps · Aquecimento · Masterclass | 🗓️ Agenda registrada | 
-| 17/10/2026 | 📊 Semana 8 | Do Dado ao Insight · Análise do mural com Gemini | 📊 Análise preparada |
+| 14/10/2026 | 📊 Semana 8 | Do Dado ao Insight · Análise do mural com Gemini | 💡 Insight compartilhado no grupo |
 | 21–23/10/2026 | ✨ Semana 9 | Mapa de Habilidades e Competências · Reflexão compartilhada | ✅ |
 | 23/10/2026 | ✨ Semana 9 | Link do jogo do hackathon compartilhado | 🎮 Demo pública |
 | 23/10/2026 | ✨ Semana 9 | Arte educativa sobre ideação com Gemini | 📝 Material preparado; publicação não confirmada |
@@ -3086,7 +3086,7 @@ Nesta semana, usei o Gemini como apoio para investigar as contribuições do mur
 <details open>
 <summary><strong>🔎 Desafio — Do Dado ao Insight</strong></summary>
 
-### 📅 14/10 · Análise preparada em 17/10 · 📊 Análise realizada
+### 📅 14/10/2026 · 💡 Insight compartilhado no grupo
 
 ### 🎯 O que foi proposto
 
