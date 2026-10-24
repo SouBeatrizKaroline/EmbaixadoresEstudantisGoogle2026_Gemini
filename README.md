@@ -3086,7 +3086,7 @@ Nesta semana, usei o Gemini como apoio para investigar as contribuições do mur
 <details open>
 <summary><strong>🔎 Desafio — Do Dado ao Insight</strong></summary>
 
-### 📅 14/10/2026 · 💡 Insight compartilhado no grupo
+### 📅 14/10
 
 ### 🎯 O que foi proposto
 
