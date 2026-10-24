@@ -192,6 +192,15 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 </details>
 
 <details>
+<summary><strong>✨ Semana 9 — Mapeando habilidades e competências</strong></summary>
+
+- [🗺️ Desafio — Mapa de Habilidades e Competências](#semana9-mapa)
+- [💡 Material educativo — Ideação com Gemini](#semana9-ideacao)
+- [🏁 Retrospectiva e check-out — Semana 9](#semana9-retrospectiva)
+
+</details>
+
+<details>
 <summary><strong>✨ Extras da jornada</strong></summary>
 
 - [🤖 Projetos que utilizam Gemini](#projetos-gemini)
@@ -247,6 +256,10 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 10/10/2026 | 🌿 Semana 7 | Envio do check-out | ✅ |
 | 13–16/10/2026 | 📊 Semana 8 | Connected Apps · Aquecimento · Masterclass | 🗓️ Agenda registrada | 
 | 17/10/2026 | 📊 Semana 8 | Do Dado ao Insight · Análise do mural com Gemini | 📊 Análise preparada |
+| 21–23/10/2026 | ✨ Semana 9 | Mapa de Habilidades e Competências · Reflexão compartilhada | ✅ |
+| 23/10/2026 | ✨ Semana 9 | Link do jogo do hackathon compartilhado | 🎮 Demo pública |
+| 23/10/2026 | ✨ Semana 9 | Arte educativa sobre ideação com Gemini | 📝 Material preparado; publicação não confirmada |
+| até 25/10/2026 | ✨ Semana 9 | Check-out semanal | 📝 Envio não confirmado |
 
 ---
 
@@ -3176,6 +3189,128 @@ Ter dados disponíveis não significa ter respostas. O aprendizado foi investiga
 
 ---
 
+
+---
+
+<a id="semana9"></a>
+
+# ✨ SEMANA 9 — Mapeando habilidades e competências
+
+### 📅 19 a 25 de outubro de 2026 · Estágio 3: Gera Valor
+
+<div align="center">
+
+**Trajetória → Evidências → Competências → Valor**
+
+</div>
+
+A proposta foi olhar para experiências reais e reconhecer habilidades que já aparecem nas decisões e ações do cotidiano. Usei o Gemini para investigar uma história do hackathon de computação quântica, organizar as evidências e montar um mapa visual.
+
+---
+
+<a id="semana9-mapa"></a>
+
+<details open>
+<summary><strong>🗺️ Desafio — Mapa de Habilidades e Competências</strong></summary>
+
+### 📅 21–23/10/2026 · ✅ Mapa, resumo e reflexão compartilhados no grupo
+
+### 🎯 O que foi proposto
+
+Usar o Gemini como investigador de trajetória: partir de histórias reais, responder perguntas de aprofundamento, conectar competências a evidências e criar um mapa visual.
+
+### ⚓ A história escolhida
+
+No hackathon de computação quântica, minha equipe criou um jogo sobre uma sonda quântica para navios. A ideia inicial do jogo foi de uma colega. Como eu tinha mais conhecimento técnico, especialmente em jogos, e estava bastante envolvida, assumi algumas tarefas e ajudei a equipe a avançar.
+
+### 🎮 Minha contribuição
+
+Ajudei a pensar na progressão da dificuldade: o jogo começa em mar aberto, e obstáculos como bombas aparecem aos poucos nas fases.
+
+Organizamos o trabalho por etapas. Durante o código, combinávamos quem estava mexendo em cada parte para evitar conflitos. Para o pitch, criamos algumas versões e escolhemos juntos qual enviar.
+
+### 🧠 Habilidades conectadas às evidências
+
+- **Criatividade e experiência do jogador:** contribuição para uma progressão de dificuldade gradual.
+- **Liderança prática e organização:** assumi tarefas técnicas e ajudei a organizar o trabalho por etapas, mesmo querendo desenvolver mais confiança em papéis de liderança.
+- **Aprendizagem contínua:** faço cursos, busco me atualizar, uso IA para soluções e comecei a aprender integração de carteiras digitais e blockchain.
+
+### 🗺️ Meu mapa visual
+
+![Mapa de habilidades e competências — Semana 9](assets/semana-9-mapa-habilidades.svg)
+
+### 💬 Minha reflexão
+
+> Percebi que assumo responsabilidades de liderança mesmo quando ainda quero desenvolver mais confiança. Também reconheci que minha criatividade, meu conhecimento técnico e minha vontade de continuar aprendendo já aparecem em situações reais. Minha próxima missão é confiar mais nas minhas habilidades e continuar aprendendo.
+
+### 🏁 Resultado coletivo
+
+Depois de finalizar o jogo principal, a equipe usou o tempo restante para criar projetos mais simples de vídeo e som para outros desafios. Registro isso como conquista da equipe, não como resultado individual.
+
+### 🎮 Jogo da equipe
+
+[🚢 Conhecer o jogo do hackathon](https://qollab.xyz/p/01a12ba5-6808-7157-a5d3-6f259c3e505a)
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana9-ideacao"></a>
+
+<details open>
+<summary><strong>💡 Material educativo — Ideação de soluções com Gemini</strong></summary>
+
+### 📅 23/10/2026 · 📝 Arte preparada; publicação não confirmada
+
+A arte apresenta um guia visual neutro sobre como usar o Gemini para entender um problema, explorar soluções diferentes, comparar benefícios e desafios e planejar um primeiro teste pequeno.
+
+<img src="assets/semana-9-ideacao.jpg" alt="Infográfico sobre usar Gemini para explorar soluções em três passos" width="360" />
+
+> O Gemini pode ampliar possibilidades e organizar o raciocínio; a avaliação e a validação com as pessoas afetadas continuam essenciais.
+
+Este material foi preparado para uma possível publicação educativa. Não há confirmação de postagem no registro atual, então não o marco como Ação de Impacto concluída.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
+<a id="semana9-retrospectiva"></a>
+
+<details open>
+<summary><strong>🏁 Retrospectiva e check-out — Semana 9</strong></summary>
+
+### 🧠 O que levo desta semana
+
+Meu repertório profissional também aparece em experiências fora de empregos formais. Uma situação de hackathon revelou criatividade no design de jogo, organização em equipe, iniciativa técnica e interesse em seguir aprendendo.
+
+### 📸 Evidência do desafio
+
+Compartilhei no grupo o mapa, o resumo de competências e a reflexão, além do link para conhecer o jogo da equipe. Guardei a imagem e a mensagem como evidências para o check-out.
+
+### 🏁 Orientação de check-out
+
+O mapa de competências valia 25 pontos. O check-out semanal deveria ser enviado até **25/10/2026, às 23h59, no horário de Brasília**. A presença na Live de Unboxing seria lançada automaticamente pelo QR code; não registro aqui uma confirmação pessoal de presença ou do envio do formulário.
+
+### ✨ Ação de Impacto
+
+Uma publicação ensinando algo aprendido poderia valer 40 pontos. O material educativo sobre ideação com Gemini está preparado, mas só deve ser registrado como publicação depois de ser efetivamente publicado e com o link ou print da evidência.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+
 <a id="projetos-gemini"></a>
 
 # 🤖 Projetos que utilizam Gemini
@@ -3412,6 +3547,10 @@ Minha pergunta também mudou.
 - [x] 🏁 Check-out da Semana 7 enviado
 - [x] 📊 Análise do mural com apoio do Gemini · Semana 8
 - [x] ⚖️ Revisão das evidências e limitações do insight
+- [x] 🗺️ Mapa de competências e reflexão compartilhados · Semana 9
+- [x] 🎮 Link do jogo do hackathon compartilhado
+- [ ] 💡 Publicar o material educativo de ideação com Gemini e guardar a evidência
+- [ ] 🏁 Enviar o check-out da Semana 9
 
 ---
 
