@@ -187,7 +187,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [🔎 Desafio — Do Dado ao Insight](#semana8-insight)
 - [🎙️ Agenda — Connected Apps e Masterclass](#semana8-encontros)
 - [🐾 Aquecimento — Que tipo de analista?](#semana8-aquecimento)
-- [🧠 Retrospectiva da Semana 8](#semana8-retrospectiva)
+- [🏁 Retrospectiva da Semana 8](#semana8-retrospectiva)
 
 </details>
 
@@ -3173,7 +3173,7 @@ A enquete convidou a reconhecer como cada pessoa se comporta diante dos dados, c
 <a id="semana8-retrospectiva"></a>
 
 <details open>
-<summary><strong>🧠 Retrospectiva da Semana 8</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 8</strong></summary>
 
 ### 🧠 Reflexão da semana
 
