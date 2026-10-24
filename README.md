@@ -167,7 +167,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [🎩 Desafio #02 — 6 perspectivas, 1 nova versão](#semana6-chapeus)
 - [🎙️ Sessão Gemini #04 — Gemini Live](#semana6-gemini-live)
 - [📣 Ação de Impacto — Compartilhando o resultado](#semana6-impacto)
-- [🏁 Retrospectiva e check-out — Semana 6](#semana6-retrospectiva)
+- [🏁 Retrospectiva da Semana 6](#semana6-retrospectiva)
 
 </details>
 
@@ -177,7 +177,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [💬 Aquecimento — Antes eu… Hoje eu…](#semana7-antes-hoje)
 - [🎙️ Desafio #01 — Puxa uma conversa](#semana7-puxa-conversa)
 - [🎮 Criação compartilhada — Hackathons e empresas juniores](#semana7-jogo-spark)
-- [🏁 Retrospectiva e check-out — Semana 7](#semana7-retrospectiva)
+- [🏁 Retrospectiva da Semana 7](#semana7-retrospectiva)
 
 </details>
 
@@ -187,7 +187,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 - [🔎 Desafio — Do Dado ao Insight](#semana8-insight)
 - [🎙️ Agenda — Connected Apps e Masterclass](#semana8-encontros)
 - [🐾 Aquecimento — Que tipo de analista?](#semana8-aquecimento)
-- [🧠 Retrospectiva — Semana 8](#semana8-retrospectiva)
+- [🧠 Retrospectiva da Semana 8](#semana8-retrospectiva)
 
 </details>
 
@@ -196,7 +196,7 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 
 - [🗺️ Desafio — Mapa de Habilidades e Competências](#semana9-mapa)
 - [💡 Material educativo — Ideação com Gemini](#semana9-ideacao)
-- [🏁 Retrospectiva e check-out — Semana 9](#semana9-retrospectiva)
+- [🏁 Retrospectiva da Semana 9](#semana9-retrospectiva)
 
 </details>
 
@@ -1233,7 +1233,7 @@ o conhecimento também poderia ser:
 <a id="semana1-retrospectiva"></a>
 
 <details>
-<summary><strong>🏁 Retrospectiva — Semana 1</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 1</strong></summary>
 
 <br>
 
@@ -1801,7 +1801,7 @@ Começou com:
 <a id="semana2-retrospectiva"></a>
 
 <details>
-<summary><strong>🏁 Retrospectiva — Semana 2</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 2</strong></summary>
 
 <br>
 
@@ -2702,7 +2702,7 @@ Levei para além do grupo o método usado para comparar os caminhos do primeiro 
 <a id="semana5-retrospectiva"></a>
 
 <details open>
-<summary><strong>🏁 Retrospectiva e check-out — Semana 5</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 5</strong></summary>
 
 ### 📅 25/09/2026 · ✅ Envio registrado
 
@@ -2893,7 +2893,7 @@ Registrei no grupo que fiz uma postagem sobre o resultado e compartilhei o link 
 <a id="semana6-retrospectiva"></a>
 
 <details open>
-<summary><strong>🏁 Retrospectiva e check-out — Semana 6</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 6</strong></summary>
 
 ### 📅 02/10/2026 · 📝 Fechamento orientado
 
@@ -3037,7 +3037,7 @@ A criação dá um exemplo concreto do meu “antes e hoje”: usar o Gemini par
 <a id="semana7-retrospectiva"></a>
 
 <details open>
-<summary><strong>🏁 Retrospectiva e check-out — Semana 7</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 7</strong></summary>
 
 ### 📅 10/10/2026 · ✅ Envio confirmado
 
@@ -3173,7 +3173,7 @@ A enquete convidou a reconhecer como cada pessoa se comporta diante dos dados, c
 <a id="semana8-retrospectiva"></a>
 
 <details open>
-<summary><strong>🧠 Retrospectiva — Semana 8</strong></summary>
+<summary><strong>🧠 Retrospectiva da Semana 8</strong></summary>
 
 ### 🧠 Reflexão da semana
 
@@ -3285,7 +3285,7 @@ Este material foi preparado para uma possível publicação educativa. Não há 
 <a id="semana9-retrospectiva"></a>
 
 <details open>
-<summary><strong>🏁 Retrospectiva e check-out — Semana 9</strong></summary>
+<summary><strong>🏁 Retrospectiva da Semana 9</strong></summary>
 
 ### 🧠 O que levo desta semana
 
